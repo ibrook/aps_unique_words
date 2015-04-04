@@ -1,0 +1,2579 @@
+ By virtue of their embedded, mineralized skeletons,
+sponges are of great interest to materials scientists, chemists,
+palaeontologists, geologists, and biologists.
+As the most basal metazoans, they are the
+key to understanding the evolution of both
+calcium- and silicon-based biomineralization.
+The manifestation of this mineralization,
+a skeleton of spicules embedded
+in the body of the sponge, is typically a
+complex arrangement of calcite or silica.
+For example, the skeletal spicules of glass
+sponges (Hexactinellida, Porifera) are valuable
+model systems for the investigation
+of structure-function relationships in biomaterials,
+with the ultimate goal of identifying
+design strategies for new synthetic
+materials. [1]
+ Natural structural composites
+often show a variety of desirable properties,
+including transient properties in the presence
+of water. [2,3]
+ The hexactinellid sponges
+have silica skeletal structures that are both
+fl exible and tough, [1,4,5]
+ because of their hierarchically layered
+structure and the hydrated state of the silica. [6]
+ Emblematic of
+the complexity of sponge skeletons is Euplectella aspergillum ,
+in which the skeleton is an elaborate cylindrical latticelike structure with at least six hierarchical levels of organization
+spanning the length scale from nanometers to centimetres. [5]
+The basic elements are laminated spicules that consist of a
+proteinaceous axial fi lament surrounded by alternating concentric
+domains of consolidated silica nanoparticles and organic
+interlayers.
+ Spicules assigned to hexactinellids are known from the earliest
+part of the animal fossil record (Ediacaran, 630 to 542 My). [7]
+Their skeletons appear to have been optimized by natural selection
+to provide structural support, and as an inert scaffold for
+various tissues encompassing a variety of functions. Organic
+molecules including silicateins, [8]
+ or more recently discovered
+collagen [9]
+ and chitin [10–12]
+ are responsible for both the biosilicifi
+cation and for the specifi c mechanical properties of their
+skeletons. These molecules and their functions are currently
+the subject of detailed discussions in modern chemical biology.
+The skeletal structures of glass sponges are also remarkable
+due to their size, durability, fl exibility, and optical properties, [13]
+however, numerous questions regarding the chemistry/biology
+interface of these mostly unique constructions remain open.
+ Deep-ocean currents are generally perceived as sluggish,
+but at intermediate depths (1000 to 5000 m) a is steady fl ow
+is present, in which the current speeds up and slows down
+as it encounters variations in terrain. [14]
+ Sponges are sessile
+organisms that fi lter great volumes of seawater to collect food
+particles and resolved organic matter, and they rely partly on
+ambient water currents; many are also raised above the sea fl oor
+on spicular stalks in order to better exploit them. Photographs
+of deep-sea hexactinellids, in natural conditions, demonstrate
+remarkable fl exibility and resilience of the stalks. [14]
+ Because
+the spicules are made from a brittle material this fl exibility is
+unexpected. The primary goal of the current study was to investigate
+the chemistry and the peculiarities of structural organization
+in the spicular stalk and body spicules of the hexactinellid
+sponge Caulophacus species . ( Figure 1 ). [15–17]
+ 2. Results
+ 2.1. Clublike Structures Within the Sponge’s Skeletal Framework
+Caulophacus , including its subgenus C. (Caulophacus) , are
+mushroom-shaped sponges that are attached to hard substrates
+by a long stalk. The atrial cavity is turned out, and represented
+by the upper surface of the cap (Figure 1 A,B). The tubular stalk
+is primarily constructed from long diactine (two rayed) spicules
+that are connected to their neighbors by numerous articulations
+(Figure 1 C–E) or by bridges (Figure 1 F–G) through secondary
+silica deposition. The stalk is fi xed to the substratum by a basydictional
+plate, which contains mostly hexactines (six-rayed spicules)
+fused to each other at points of contact. The subgenus
+is cosmopolitan, being distributed in all oceans and in some
+seas with “normal” salinity at a depth of 130–6770 m. Currently
+about 15 species are known.
+ Individual spicules were isolated from the Caulophacus sp .
+stalk using pincers. We observed clublike constructions
+( Figure 2 A,B) at the ends of separated spicules using scanning
+electron microscopy (SEM). These spinose, clublike structures
+were also observed in light microscopy images (Figure 2 C).
+To obtain more detailed information about localization of
+these specifi c structures within the spicular articulations, we
+employed gentle desilicifi cation using a 2.5 M NaOH solution at
+37 ° C, as described previously. [9,10]
+ After 14 days of immersion,
+the clublike constructions could be observed as being located
+within articulations using both light microscopy (Figure 2 D)
+and SEM (Figure 2 E,F). Detailed analysis of the SEM images [18]
+revealed that the spiny surfaces on these spicules could be
+coupled with each other, preventing slippage against the corresponding
+silica-based articulation ( Figure 3 ). This structure is
+unique and evolved as a natural engineering solution to structural
+integrity problems in the construction of the hierarchical
+skeletons of glass sponges.
+ Siliceous monaxon spicules with various spination patterns
+are well described in the sponge literature. [19]
+ It has been
+hypothesized that this phenomenon results from hypersilicifi cation
+related to a high silica concentration in water. [20]
+ However,
+during alkali-based desilicifi cation experiments we observed
+that the spines of the clublike structures were highly resistant
+to alkali treatment, in contrast to the surface silica layers, which
+are deeply corroded under these conditions (Figure 3 ).
+ 2.2. Identifi cation of Calcite-Silica Composite
+ In order to proceed with more detailed studies, we mechanically
+disrupted several spicules showing the clublike constructions, as
+shown in Figure 4 A. SEM images of these broken elements show
+that the spines possess central structures, covered with a layer of
+silica (Figure 4 B). Elemental mapping (Figure 4 C) and energy dispersive
+X-ray spectroscopy (EDX) (Figure 4 D) unambiguously show
+that calcium and not silicon is the main component of this central
+structure (see the Supporting Information, Figure S1). Atomic
+absorption spectroscopy [18]
+ also confi rmed the presence of calcium
+in this spicular material , at an average concentration of 37.8 ±
+9.0 ng mg − 1
+ (mean ± standard deviation, s.d.), corresponding to
+3.78 ± 0.90 mass percent of calcium in the whole spicule.
+ The chemical nature of the mineral phases within the
+club-like structures was then investigated by means of
+photoemission spectroscopy (PES) and X-ray absorption spectroscopy
+(XAS) (Figure 4 E,F), performed on untreated spicules
+of Caulophacus sp. The appearance of Si 2p photoemission
+demonstrates the presence of silicon in all spicules, and
+the exact position of the peak on the binding energy scale
+grants an insight into its chemical bonding. Pure silicon is
+observed at 100 eV bond energy, whereas SiO 2 is found at
+105 eV. SiO x compounds are observed between 100 and 105 eV
+according to their stoichiometry (Figure 4 E). The observed
+bond energy of about 103 eV suggests that the silicon compound
+in the spicules has a silicium-to-oxygen ratio of 1:1,2.
+Therefore we hypothesize that silicon oxide is present in
+these skeletal structures in a bound form. This stoichiometry
+rules out foreign particles as a source of the silica signal.
+Also, XAS spectra obtained for each of the sponge samples
+(Figure 4 F) show a strong signal at the Ca 2p absorption
+edge. The fi ne structure of the near-edge X-ray absorption pattern
+closely resembles that of calcite. Transmission electron
+microscopy (TEM) and electron diffraction analysis (EDA) of
+the untreated clublike structures ( Figure 5 A,B) further confi rm
+these results. TEM diffraction analysis of the spicule shows
+the presence of two phases, one amorphous (Figure 5 C) and
+one crystalline (Figure 5 D). EDA for the spines shown as a
+TEM image in Figure 5 B correspond to the (0001) zone axis
+of calcite with d spacings: 100 (1010) 4.32 Å; 010 (0110) 4.32
+Å and 210 (2110) 2.49 Å. These data correlate well with those
+reported previously for calcite identifi ed in other invertebrates
+using the electron diffraction technique. [21]
+ The microstructure
+of the central calcite crystals isolated by alkali treatment from
+the clublike structures (Figure 5 D) is also very similar to the
+morphology of calcite crystal nuclei described previously [18,22]
+(see Supporting Information, Figure S2). Further analysis
+of the crystals (Figure 5 E) isolated from clublike structures
+after alkali-based desilicifi cation was achieved by infrared
+(IR) (see the Supporting Information, Figure S3) and Raman
+(Figure 5 F) spectroscopy. The obtained FTIR spectra as well as
+Raman spectra unambiguously confi rm the calcite nature of
+these crystals.
+ 3. Discussion
+ Mechanical testing of the spicules suggests an important
+strengthening role for the observed structures. Microindentation
+tests of the sponge architecture demonstrated only
+slight plastic deformation (one micrometer or less), compared
+with tens of micrometers of elastic deformation. Moreover, 
+buckling events were clearly seen on the indentation curves (see
+the Supporting Information, Figure S4A). The sponge has rigid
+outer layer (thickness 150 μ m) where the spicules are interconnected
+more densely. This area has a reduced E-modulus
+(REM) of 14.9 ± 4.5 MPa with the minimal measured value of
+1.45 MPa. The bulk material of the sponge is softer and is relatively
+isotropic. The REM of the sponge in the axial direction
+was 614 ± 173 kPa, whereas in areas where single spicules protrude,
+it was just 3.82 ± 1.34 kPa (see the Supporting Information,
+Figure S4). The inner surface of the sponge has a reduced
+number of cross-linking spicules and spicules with orientation
+parallel to the surface, which explains the small REM values of
+the innermost part of the sponge (REM 4.3 ± 0.5 kPa). However,
+after 100 μ m of compression of the soft layer, the sponge
+material has REM of 618 ± 200 kPa (see the Supporting Information,
+Figure S4B), equaling that of the bulk sponge material.
+ The challenge now is to understand the mechanisms by
+which this unique biocomposite is initially formed, at high pressure
+(420 ATM) and at low temperature (between 2 and 4 ° C). In
+most cases, calcifi cation in sponges is confi ned to an extracellular
+space delineated by tightly adhering sclerocyte cells. [20]
+ The
+sclerocytes secrete a macromolecular matrix to the extracellular
+space, which comprises a genetically programmed, threedimensional
+framework that guides spicule formation. It is diffi -
+cult to differentiate between organically mediated and inorganic
+precipitation, and a combination of different mechanisms in the
+same species cannot be ruled out. A decisive factor for the control
+of nucleation of calcium carbonate is the development of local
+supersaturation with respect to calcite or to any other calcium
+carbonate polymorph. This in turn depends on the levels of calcium
+and carbonate ion activities. The latter depend strongly on
+local pH as the dissolution of CO 2 is favored at higher pH values.
+Seawater may become supersaturated with respect to calcium
+carbonate especially in spatially confi ned structures. The inner
+space of the Caulophacus sp . spicule represents a microchannel
+of approximately 1.0 μ m in diameter fl ooded with ionic solution,
+while one extremity of the spicule is sealed by the silica. At
+these conditions, contact with silicic surfaces is expected to favor
+heterogeneous nucleation of calcite, as in this case lower supersaturation
+is needed in comparison with the value needed for
+homogeneous. For example, calculation of the saturation of calcite
+at 2,000 meters, 5 ° C and pH between 7.62 and 8.22 yielded 
+values between 49 and 184, respectively. [23]
+ Calcite is expected to
+precipitate at a saturation exceeding 100, a value which corresponds
+for the ion activity of seawater to pH 8.00.
+ The observed morphology of this silica–calcite biocomposite
+can be understood as the result of the crystallization of calcite
+crystals in the presence of polymeric silica. [24]
+ Garcia-Ruiz
+et al. [25]
+ obtained numerous peculiar forms of alkaline-earth
+metal carbonates in high-pH silica gel, which indicated that
+silicate anions interact strongly with carbonates. Furthermore,
+layers of silicates have been deposited on the surface of calcite,
+[26,27]
+ a fact supporting crystallographic affi nity for the two
+inorganic solids. It has also been shown in vitro that a complex
+crystalline architecture can be induced through the miniaturization
+of the growth subunits by covering the surface of carbonate
+crystals with silicate anions and by the self-organized
+assembly of the miniaturized subunits. [28]
+ The silica–calcitebased
+clublike structures made by Caulophacus sp . are the fi rst
+natural example of this principle, which confi rms that biomineralization
+is a process in which organisms produce mineral
+solutions for their own functional requirements, [29]
+ starting on
+nano- and microlevels of structural hierarchy.
+ Although poriferan skeletons may be composed of a large
+variety of minerals, calcium carbonate and siliceous structures
+very rarely co-occur in the same sponge. The only previously
+known examples are in the form of solid calcareous skeletons
+in addition to siliceous spicules, or as small calcareous spherules
+[30]
+ or granules [31]
+ in siliceous spiculate sponges. None of
+these constitute biocomposites, and no sponge with calcareous
+spicules has yet been found to secrete silica also.
+ It is less clear how the skeletons of early sponges were constructed,
+and this is of great signifi cance in palaeontology and
+early animal phylogeny. It has been argued that the different 
+secretion mechanisms of spicules in Silicispongia ( Demospongiae
+and Hexactinellida ) and Calcarea preclude homologous biomineralization
+between the sponge classes. [32]
+ However, the heteractinid
+sponge Eiffelia globosa shows features characteristic of both
+groups, and spicules have a bilayered structure suggestive of a
+silica–carbonate biocomposite. [33]
+ The presence of a silica–calcite
+composite in extant hexactinellids suggests that the mechanism
+of secretion is fl exible in the precise structures formed,
+and that extant and early sponges share a common biochemical
+basis for secreting both materials. Although the structures of the 
+skeletal elements themselves may have changed, as well as the
+cytological architecture, the mineralogical secretion processes are
+likely to be homologous. If similar structures to those in Caulophacus
+are confi rmed in other taxa, the widespread presence of silica–calcite
+composites in the silicisponge lineage but not the calcareans,
+would tend to support an ancestral carbonate spicule mineralogy
+for Porifera . More data are needed from other sponge groups
+before the full implications of such fi ndings will be known.
+ 4. Conclusions
+ Structural design of biological materials has evolved under
+extreme evolutionary pressures to ensure the survival of a species,
+often in adverse environments. [34]
+ We can now outline the
+factors that are important for the highly deformable and resilient
+structure of the glass sponge stalk. Typically, slender rods
+of small dimension are stiffer than expected. [17]
+ Stress concentration
+near holes and notches is dissipated by materials with
+microstructure such as the glass sponge stalk. In a foamlike
+construction, a stiff and brittle material of single cells contributes
+to the volume, but not to the stiffness of the construction.
+In foamlike sponge construction, the largest structural fi brelike
+elements appear to govern the fracture toughness and the
+localization of microdamage. Twisting or bending of the fi berbased
+construction is an additional degree of freedom that dissipates
+stress. Additionally, clavate-shaped, spine-covered ends
+of spicule, which are made of crystalline calcite, are responsible
+for a mechanical interlocking of single spicule with each other.
+A combination of two different materials at the level of single
+spicule (see the Supporting Information, Figure S5), the interlocking
+system between spicules, and the fi brous composite
+construction of the sponge stalk, make the entire construction
+mechanically stable and simultaneously very fl exible under
+mechanically challenging environmental conditions. Intriguingly,
+the concept of turning weakness into strength based
+on the university-diversity-principle (UDP), [34]
+ in the case of
+Caulophacus sp . sponge, can be discussed as very specifi c
+because of the presence of two different inorganic materials.
+In contrast to this siliceous sponge, diatoms, for example, can
+transform a brittle biosilica into a ductile, strong, and tough
+material, solely through alterations of its structural arrangement
+at the nanoscale. [35,36]
+ Thus, mechanical response of diatoms
+cell walls can be greatly altered by simple alteration of their
+structural geometry without the need to introduce new constituents.
+[35]
+ Clearly, the future development of the comparative
+computational models [37]
+ of glass sponges and diatoms, as two
+different biosilica-based and nanostructurally organized hierarchical
+systems, represents a scientifi c task of great interest.
+ The silica–calcite composite structures described here represent
+an additional example of multiphase biomineralizationphenomenon
+recently discussed by us. [38]
+ Up to know, is is not
+known why some organisms utilize, for example, silica rather
+than calcium carbonate as a structural material. However, in
+the case of extreme deep-sea environmental conditions, Mother
+Nature decides to use both mineral phases within one very
+complex designed skeletal network, which is defi nitively essential
+for biological survival of the fi ttest organism.
+ 5. Experimental Section
+Sponge Samples : The investigated Caulophacus sp . specimens were
+captured during the 22 nd cruise of the R.V. “Academic Mstislav Keldysh”
+in the N-E Pacifi c, off Bering Island, stn. 2316, 55 o 36,08-35’N 167 o 23,04-
+24,46’ E, 4200-4294 m. Stalks of Caulophacus sp . were treated according
+to the following procedure. Sponge material was stored for several
+days in fresh sea-water. The sponge was dried afterwards for 4 days at
+45 ° C. Finally the sponge skeletal material was cleaned in 10% H 2 O 2
+and dried again at 45 ° C. Tissue-free dried sponge material was washed
+three times in distilled water, cut into 3 cm long pieces and placed in a
+solution containing purifi ed Clostridium histolyticum collagenase (Sigma)
+to digest any possible collagen contamination of exogenous nature. After
+incubation for 24 h at 15 ° C, the pieces of glass sponge skeleton were
+again washed three times in distilled water, dried and placed in a 15 mL
+vessel containing chitinase solution (as described by us previously) [10]
+ to
+digest any possible exogenous chitin contaminations. After incubation
+for 48 h at 25 ° C, fragments of skeleton were again washed, dried, and
+placed in 10 mL plastic vessels for storage and analysis.
+Chemical Etching of Glass Sponge Skeleton : 8 mL of 2.5 M NaOH
+(Fluka) solution was added to the 10 mL plastic vessel, which contains
+fragments of the Caulophacus sp . stalks, purifi ed as described above.
+The vessel was covered and placed under thermostatic conditions at
+37 ° C without shaking. The same procedure was carrying out using
+0.01% solution of HF (puriss. p.a., Fluka). The effectiveness of the alkali
+desilicifi cation procedures was also monitored using optical microscopy
+and SEM at different locations along the length of spicular material and
+within the cross-sectional area.
+Atom Absorption Spectroscopy (AAS) : A Varian SpectrAA-10
+spectrometer with Varian GTA-96 graphite furnace atomizer was used to
+determine the concentration of calcium within the purifi ed samples of
+Caulophacus. sp . spicules. Three samples were weighed into Eppendorf
+microvials, dissolved by adding 100 μ L HF to each sample and
+homogenised for 30 s by shaking. Each sample was diluted with 900 μ L
+purifi ed water and again homogenised. A wavelength of 239.9 nm was
+used to measure absorption by calcium.
+Photoemission Spectroscopy (PES) and X-ray Absorption Spectroscopy
+(XAS): Measurements were performed at MAX-lab (Lund University,
+Sweden) using radiation from the beamline D1011 bending magnet
+dipole beamline located at the MAX II storage ring. X-ray absorption
+spectra in the vicinity of the Ca 2p absorption threshold were recorded
+in total electron yield (TEY) mode with a MCP detector. Photoemission
+of the Si 2p core-level was obtained at 200 eV photon energy using a
+SCIENTA SES200 electron energy analyzer.
+ Supporting Information
+ Supporting Information is available from the Wiley Online Library or
+from the author.
+ Acknowledgements
+ We thank Prof. H. Lichte for use of the facilities at the Special Electron
+Microscopy Laboratory for high-resolution and holography at Triebenberg,
+TU Dresden, Germany. The authors thank R. Lakes, G. Wörheide,
+G. Bavestrello for helpful discussions. The authors are deeply grateful to
+R. Schulze, H. Meissner, G. Richter, O. Trommer for excellent technical
+assistance. This work was partially supported by the DFG (Grant Nos. EH
+394/1-1; MO 1049/5-1, ME 1256/7-1 ME 1256/13-1, and WO 494/17-1)
+and by the BMBF (Grant No. 03WKBH2G), by a joint program “Mikhail
+Lomonosov - II” of DAAD (Ref-325; A/08/72558) and RMES (AVCP Grant
+Nr. 8066), and by Erasmus Mundus Co-operation Window Programme
+2009. Part of this study was supported, as part of the European Science
+Foundation EUROCORES Programme FANAS, by the German Science 
+
+
+
+Propulsive Functions of
+Vertebral Columns
+I n sharks and other fish, the
+body’s primary skeleton is the vertebral
+column, which runs from the
+head to the caudal fin (Summers &
+Long, 2006). The vertebral column is
+a jointed framework to which muscles
+attach and on which the muscles pull
+to create the traveling waves of flexure
+that transfer momentum from the
+body to the surrounding fluid. The
+vertebral column is composed of rigid
+elements, called vertebrae, connected
+by flexible intervertebral joints
+(Grotmol et al., 2003; Koob &
+Long, 2000). The joints and their
+adjoining vertebrae limit the body’s kinematic
+degrees of freedom, constraining
+bending primarily to the lateral
+direction in response to loads imposed
+by muscle, inertia, and external fluid
+forces (Grotmol et al., 2006; Porter
+et al., 2009; Symmons, 1979; Schmitz,
+1995). In this way, the vertebral
+column functions to control dynamic
+reconfigurations of the self-propelling
+body.
+In roll-stable sharks and fish, lateral
+body bending is characterized by the
+overlay of harmonic and transient motions
+that range from small traveling
+flexures to large-amplitude standing
+waves (Long et al., 2010). These bending
+motions produce the propulsive
+forces that create forward swimming,
+turning maneuvers, and rapid accelerations.
+Across many different kinds of
+fish, the stiffness of the bending joints,
+measured as the apparent Young’s modulus,
+E, ranges from 0.1 to 8 MPa
+(Long et al., 2002). The E is a mechanical
+property, sometimes called
+the “material stiffness,” that measures
+the contribution of the material, independent
+of its geometric arrangement
+in the structure, to the structure’s resistance
+to changing shape when an external
+load is applied to it.
+
+Joints with any appreciable stiffness
+at all may at first seem to be a paradox:
+why not have low-stiffness joints that
+cost little, in terms of mechanical
+work, to bend? The answer seems to
+be two-fold: (1) Stiff joints increase
+their resistance, in terms of the absolute
+bending moment, M (in units of
+Nm), in proportion to the magnitude
+of bending curvature, κ (m−1
+). This resistance,
+which can grow nonlinearly
+with κ, serves as a brake, limiting
+lateral bending (Long et al., 2002).
+(2) Stiff joints store and release more
+mechanical work, so-called “elastic
+energy,” than flexible joints (Long,
+1992). The amount of work released
+in elastic recoil is also in proportion
+to E and to the square of κ. Hence,
+the vertebral column functions best
+as a spring when muscles have reached
+their functional limits, at the end of a
+large-κ bend when connective tissues
+are stiffest.
+To explore the mechanical design
+space of vertebral columns, we created
+biomimetic vertebral columns (BVCs).
+The BVCs are modeled after the vertebral
+column of sharks. We chose
+sharks’ vertebral columns since they
+are structurally simple, compared to
+those of bony fish, consisting of cylindrical
+centra, small neural and hemal
+arches, and thin intervertebral joints
+(Figure 1). Together, a centrum and
+its arches are called a vertebra, and in
+the cartilaginous sharks, skates, and
+rays, the vertebrae (plural form of
+‘vertebra’) are composed of mineralized
+cartilage. The compressive stiffness
+of these vertebrae, measured by
+E, ranges from 25 to 500 MPa, overlapping
+the lower range of E for bone
+(Porter et al., 2006). Compared to the
+bone of mammals, for a given value of E
+the vertebrae of sharks are stronger, where
+strength is measured in terms of breaking
+stress (Porter & Long, 2010). Thus,
+in some ways, vertebral columns made of
+mineralized cartilage perform better than
+vertebral columns made of bone.
+In summary, vertebral columns serve
+at least three important propulsive functions
+during swimming: (1) they control
+dynamic reconfigurations of the body
+by limiting the kinematic degrees of
+freedom, (2) they brake high-amplitude
+bends by virtue of their stiffness, and
+(3) they integrate muscle work over
+time by recoiling elastically.
+To build a BVC that can function as
+part of an aquatic propulsion system,
+we (1) characterized the morphology
+(size and shape) of the vertebral columns
+of sharks, (2) measured the mechanical
+properties of those vertebral
+columns as they underwent sinusoidal
+bending, (3) used that information
+about morphology and mechanical
+properties to design BVCs, (4) tested
+BVCs as they underwent the dynamic
+bending characteristic of swimming
+and propulsion, and (5) tested the
+BVCs as the primary skeleton in the
+flapping tail of an aquatic robot.
+Morphology of Sharks’
+Vertebral Columns
+In three individuals of the blacktip
+shark, Carcharinus limbatus, and
+the bonnethead shark, Sphryna
+tiburo, we measured, from radiographs,
+the following features from
+the head to the beginning of the caudal
+fin (Figure 2): (1) the length of centrum,
+c, (2), the diameter of the centrum,
+d, (3) the length of the intervertebral
+joint, j, and (4) the cone angle, Ξ,
+of the capsule of the joint. Blacktip
+sharks, members of the family
+Carcharhinidae, were chosen because
+
+they are known to be fast swimming
+predators of fish. In contrast,
+bonnethead sharks, members of the
+hammerhead family Sphyrnidae, are
+known less for their speed and more
+for their maneuverability and ability
+to find and eat crustaceans. Of similar
+adult body size, the two species
+represent contrasting swimming styles
+and ecologies. Three individuals of
+each species were used for this study.
+In the bonnethead shark, all the
+morphological features, except d,
+increased in size from the head to the
+end of the abdomen and then decreased
+towards the caudal fin (Figure 3). In
+blacktip shark, only Ξ and c varied
+from head to caudal fin. The significance
+(α = 0.05) of the morphological
+variation was determined with a
+multivariate analysis of covariance
+(MANCOVA), with species and position
+as main effects and individual as
+the covariate (JMP 8.0.2., SAS Institute,
+Cary, NC). Following an identity
+model MANCOVA, univariate
+ANCOVAs were also run.
+The variation in the morphology of
+these vertebral columns was used to
+guide the construction of the BVCs.
+For each of the sharks’ morphological
+features, we indicated which dimensions
+were used (see black arrows on
+the ordinates, Figure 3).
+Mechanical Properties of
+Sharks’ Vertebral Columns
+Using the same freshly dissected
+vertebral columns from which morphology
+was measured, we conducted
+3-point dynamic bending tests using
+an MTS model Mini Bionix 858
+(Eden Prairie, MN) with a 500 N
+load cell. For blacktip sharks, each
+vertebral column was cut into five
+segments of 19 vertebrae each. For
+bonnethead sharks, each vertebral
+column was cut into five segments of
+14 vertebrae each. The number of segments
+in each species was varied to
+keep the absolute length of each test
+segment approximately equal. Each
+segment was subjected to sinusoidal
+bending at a frequency, f (Hz), and
+maximum curvature, κ (m−1
+), varied
+to hold constant the time rate of
+change of κ, which is equivalent to
+the strain rate (actuator displacement
+amplitude of 2 mm s−1
+).
+To characterize the viscoelastic
+properties of the vertebral column during
+bending, the apparent storage and
+loss moduli, E′ and E″ (MPa), respectively,
+were measured at each combination
+of two species, five segment
+positions, and three κ. The E′ measures
+the purely elastic component of
+the stiffness; it is the force proportional
+to the magnitude of the bending of the
+vertebral column. The E″ measures the
+purely viscous component of the stiffness;
+it is the force proportional to the
+velocity of the bending of the vertebral
+column. These properties were calculated
+from the following formulae:
+E′ ¼ E*cos δ and E″ ¼ E*sin δ,
+wherein E* ¼ FmaxL3
+48Iymax and δ is the
+phase lag (radians) between the displacement
+and load signals. Moreover,
+Fmax is the force (N) measured at the
+load cell, L is the gauge length of the
+specimen (m), I is the specimen’s
+
+second moment of area (m4
+), and ymax
+(m) is the distance from the presumed
+neutral plane of bending (transverse
+center of specimen) and the lateralmost
+fibers of the specimen.
+In blacktip sharks, the E′ and E″
+values were of greater magnitude
+( p < 0.05) than those of bonnethead
+sharks (Figure 4). In both species,
+E′ increased towards the tail, an effect
+that is amplified at higher values of κ,
+as indicated by a significant (p < 0.05)
+interaction term. The significance of
+the variation in E′ and E″ was determined
+using ANOVA, with species,
+position, and κ as main effects ( JMP
+8.0.2., SAS Institute, Cary, NC).
+Since the data blacktip and bonnethead
+sharks were taken at a single amplitude
+of strain rate (2.0 mm s−1
+), we
+sought additional information about
+how E′ and E″ vary with changes in
+strain rate. We also wanted to test the
+hypothesis that the intervertebral capsule,
+which contains liquid under
+above-ambient pressure, uses its internal
+fluid pressure to alter the apparent
+E′ and E″ of the vertebral column. Because
+blacktip and bonnethead sharks
+were not available for these tests,
+spiny dogfish, Squalus acanthias, were
+used. Fresh 10-vertebrae segments
+were removed from the region of the
+first dorsal fin in three dogfish. Each
+segment was pressure-clamped at the
+terminal vertebrae and end-loaded
+with bending moments, M (for experimental
+configuration, see Long et al.,
+2011). The bending motion was delivered
+via moment arms attached to a
+single-axis linear actuator using an
+MTS model Tytron 250 (Eden Prairie,
+MN) and a 50-N load cell. To test the
+effects of both f and κ on E′ and E″,
+each segment was bent sinusoidally at
+each combination of five f values and
+three κ values. In addition, to test the
+effects of the integrity of the fluid-filled
+intervertebral joint capsule on E′ and
+E″, we repeated this suite of tests
+after (a) puncturing a single joint capsule
+located in the middle of the segment
+and (b) puncturing three joint
+capsules, including the first one punctured
+and two adjoining capsules.
+Increases in f increased only E′
+( p < 0.05) while increases in κ
+increased both E′ and E″ (Figure 5).
+The only significant effect of puncturing
+the intervertebral capsule was
+when three capsules were punctured,
+and even then only E″ increased. The
+
+significance of the variation in E′ and
+E″ was determined using ANCOVA,
+with puncture, f, and κ as main effects
+and individual as the covariate ( JMP
+8.0.2., SAS Institute, Cary, NC).
+In summary, the vertebral columns
+of sharks have mechanical properties
+that are highly variable. As species
+and anatomical position change, so,
+too, do E′ and E″. Within a given vertebral
+segment, the apparent storage
+modulus, E′, and the apparent loss
+modulus, E″, can be altered by the
+bending that they undergo. Increasing
+the segment’s curvature, κ, increases
+both E′and E″; increasing the segment’s
+frequency of bending, f, increases the
+E′. Knowing the mechanical behavior
+of shark vertebral columns under realistic
+bending conditions creates specifi-
+cations for BVCs.
+Designing BVCs
+To begin to understand how to
+control the mechanical behavior of
+BVCs, we built two classes of sharkinspired
+BVC: (1) BVC with variable
+cone angle, Ξ (BVCΞ): vertebrae
+were created with variable Ξ and the
+BVC had constant joint length, j,
+and (2) BVC with variable joint length,
+j (BVCj
+): vertebrae were created with
+a constant Ξ and the BVC had variable
+j. In addition to exploring the effects
+of the structures Ξ and j, we
+also varied the amount of cross-linking
+of the hydrogel material forming the
+joint. Thus, we explored the BVC
+“morphospace,” the variety of designs
+described by three dimensions: Ξ, j,
+and cross-linking. Part of this exploration
+involved the challenge of making
+composite structures that concatenate
+flexible and rigid elements. After fabrication
+and mechanical testing of both
+classes of BVC, we selected a single
+class, the BVCj
+, for performance testing
+in a tail-flapping aquatic robot.
+In the BVCΞ , vertebrae were designed
+in software (SolidWorks,
+Dassault Systèmes SolidWorks Corp.,
+Concord, MA) to have the following
+values of Ξ: 15°, 30°, and 45° (Figure
+6). These values correspond to
+low, medium, and high values of Ξ
+measured in sharks (see Figure 3).
+The diameter, d, and axial length, c,
+of the vertebrae were fixed at 1 cm
+for both. The j of the column was
+fixed at 0.25 cm.
+Vertebrae were fabricated with a
+rapid prototyper (Z-Corp, model
+310), which produced a porous, plaster
+part that was subsequently infiltrated
+with cyanoacrylate (EZ bond
+5cps, K&R International, Diamond
+Bar, CA). This process yielded vertebrae
+with mean compressive moduli,
+E (MPa) of 43, 50, and 61 for vertebrae
+with values of Ξ at 15°, 30°,
+and 45°, respectively. These values of
+E are within the range measured for
+shark vertebrae (Porter et al., 2006).
+Vertebrae of a given Ξ were assembled
+into a BVCΞ in two stages. First,
+seven vertebrae were linked together,
+spaced at the fixed j, with eight horse
+hairs (E in tension of 900 MPa)
+arrayed axially and affixed to the
+outer circumference of the vertebrae.
+These horse hairs served as first
+
+approximations of the intervertebral
+ligaments found in the vertebral columns
+of sharks. Second, a 10% porcine
+gelatin solution was injected in
+between the vertebrae; the gelatin was
+solidified at 4° C. Once solidified, each
+BVCΞ was then subjected to one
+of three fixation treatments: 0, 1%,
+or 5 % glutaraldehyde, a chemical
+agent that cross-links the collagen in
+the hydrogel. A total of nine different
+types of BVCΞ were produced, with
+each possible pairwise combination of
+Ξ and glutaraldehyde concentration.
+In the BVCj, vertebrae were designed
+to have a Ξ of 90°, which created
+ring-shaped vertebrae (Figure 7).
+The d and c of the vertebrae were
+fixed at 0.5 and 1.0 cm, respectively.
+The overall length of the BVCj was
+fixed at 8.4 cm. As the number of
+nonterminal vertebrae were varied
+from 0 to 11, j varied from 720 to
+0.5 mm. These values of j created a
+range that extended below and above
+the range of j measured in sharks (see
+Figure 3).
+Vertebrae were milled from
+Delrin™, a polyoxymethylene thermoplastic.
+Delrin has a compressive E
+of 3.1 GPa (Delrin Design Guide,
+Module III, from DuPont), which
+lies in the middle of the range of
+E values reported for shark vertebrae
+(Porter et al., 2006).
+The ring vertebrae had an inner diameter
+of 0.8 cm, which matched the
+outer diameter of hydrogels made from
+10% porcine gelatin fixed in 2.5%
+glutaraldehyde (Long et al., 2006).
+Vertebrae were slid onto the hydrogel,
+spaced evenly at the desired j, and af-
+fixed to the hydrogel with cyanoacrylate
+adhesive. A total of 12 different
+types of BVCj were produced, one
+type for each of the 12 different values
+of j. Three replicates of each type were
+produced and tested. Please note that
+in the BVCj horse hairs were omitted
+because at all but the smallest values
+of j, the hairs cut into the hydrogel during
+bending.
+Mechanical Properties
+of BVCs
+The E′ and E″ of the BVCs were
+measured in two different kinds of
+sinusoidal bending test, which corresponded
+to the tests performed on
+sharks’ vertebral columns. In the
+BVCΞ, 3-point bending tests were
+conducted in a manner identical with
+those on the blacktip and bonnethead
+sharks. In the BVCj, end-loaded bending
+tests were conducted in a manner
+identical with those on the spiny dog-
+fish sharks. The E′ and E″ data for the
+BVCj have been analyzed previously
+(Long et al., 2011). In the analysis
+here, the data have been reanalyzed
+to calculate the mechanical work required
+to bend the BVCj and the mechanical
+work recovered as recoil.
+In the BVCΞ , both E′ and E″ increased
+as the glutaraldehyde concentration
+increased, E′ and E″ decreased
+as the Ξ increased, and E′ increased
+and E″ decreased as κ increased (Figure
+8). The significance of the variation
+in E′ and E″ was determined
+using ANOVA, with glutaraldehyde
+concentration, Ξ, and κ. as main
+effects ( JMP 8.0.2., SAS Institute,
+Cary, NC).
+
+Compared to the mechanical properties
+of shark vertebral columns, the
+BVCΞ have values of E′ that have a
+wider range, overlapping the lower
+values and exceeding the sharks’ higher
+values by an order of magnitude (compare
+Figures 8 and 4). In contrast, the
+E″ values of the BVCΞ overlap only
+with those of the bonnethead shark;
+the BVCΞ has much lower values of
+E″ than either the blacktip or spiny
+dogfish shark. Moreover, the E′ for
+BVCΞ decreases as κ increases; we
+measured the opposite trend in sharks
+(see Figures 4 and 5). Hence, the
+BVCΞ is not a good biological model
+in this sense. Our hypothesis as to the
+source of this strain softening is that
+the horse hairs force the column to
+bend primarily by compression, rather
+than by a combination of tension and
+compression.
+In the BVCj, both E′ and E″ decreased
+nonlinearly as j increased
+(Figure 9). Compared to the mechanical
+properties of dogfish vertebral
+columns, the BVCj span a nearly identical
+range of E′ and E″ values. The
+greatest sensitivity to changes in j occurred
+at the smallest values of j (Figure
+9) in the region that corresponds
+to the j measured in the vertebral columns
+of sharks (Figure 3). In data
+shown elsewhere (Long et al., 2011),
+E ′ and E ″ of the BVCj increased
+with increasing κ, just as in sharks
+(see Figure 5 herein). Moreover the E′
+increased with increasing f, as likewise
+seen in sharks (Figure 5).
+The mechanical work to bend the
+BVCj increased with increasing κ and
+increasing E′ (Figure 9). The mechanical
+work recovered as elastic recoil,
+Wrecoil , is a function of the resilience,
+R, which, over all the testing
+conditions and sizes of joints, averaged
+76%.
+BVCs in Aquatic Vehicles
+The flexible skeletons of sharks and
+fish are inspiring the design of novel
+propulsive systems and aquatic vehicles
+(for review, see Fish, 2006; Long,
+2007, 2011). Fins with life-like flexibility
+have been built to propel a 0.7 m
+long robotic turtle (Long et al., 2006)
+and a 0.4 m long robotic knife-
+fish (Curet et al., 2011). Bodies with
+life-like flexibility have been built to
+
+propel a 0.7-m long robotic electric
+ray (Krishnamurthy et al., 2010),
+a 0.5-m long robotic trout (Kruusmaa
+et al., 2011), a 0.12-m long mechanical
+sunfish (McHenry et al., 1995),
+and a 0.5-m long mechanical pickerel
+(Conte et al., 2010). Of these
+self-propelled aquatic vehicles, only
+the mechanical pickerel has anything
+resembling a vertebral column:
+a piece of spring steel designed to
+release mechanical work to power
+accelerations.
+The BVCj presented here was invented
+to propel a surface swimming,
+0.3-m long tadpole robot (Long
+et al., 2006; Doorly et al., 2009),
+known as Tadro4 (Figure 10). BVCj
+were attached to a servo motor that
+created a sinusoidally varying pitching
+motion of a tail. That pitch bent the
+BVCj, creating a bending moment
+that propagated down the length of
+the BVCj in a traveling wave that, in
+turn, oscillated the terminal caudal
+fin. In this configuration, without
+distributed muscles, the BVCj acts
+as both a transmission system, transferring
+momentum from the servo motor
+to the caudal fin, and as a propeller,
+directly transferring momentum to
+the surrounding fluid.
+Since Tadro4 was built to behave
+reactively, with sensorimotor feedback
+systems creating foraging and predator
+avoidance, we needed a version that
+could be programmed to swim straight
+using a constant flapping frequency of
+the tail, f, and lateral amplitude of the
+caudal fin. That modified version of
+Tadro4 was called MARMT (Mobile
+Autonomous Robot for Mechanical
+Testing), and it had a hull length of
+17 cm and a tail length of 10 cm
+(Long et al., 2011).
+Outfitted with a given BVCj,
+MARMT’s steady swimming performance
+was measured as swimming
+
+speed, U, and stride length, the slope
+of the line of U regressed onto f,
+which measures the distance the
+robot travels over one period of the
+flapping tail (Figure 11). As f increased
+for any BVCj
+, so, too, did the U. The
+BVCj with greater values of E′ produced
+a more rapid increase in U,
+over the same range of change in f,
+compared to BVCj
+, with smaller values
+of E′ (Figure 11, top panel). The stride
+length of MARMT increased initially,
+doubling as E′ doubled, before tapering
+off.
+When the BVCj operates in the
+flapping tail, MARMT’s swimming
+performance is clearly linked to the
+mechanical properties of the BVCj, E′
+in the case shown here. Those mechanical
+properties are, in turn, under
+the control of the structure of the
+BVCj. Thus these experiments, taken
+together, demonstrate the functional
+relationship between the structure of
+the BVCj and the performance of a
+self-propelled aquatic robot.
+Summary
+Using the morphology and mechanical
+properties of the vertebral
+columns of sharks as our biological
+target, we built and tested a series of
+BVC. The mechanical behavior of
+the BVCs, measured by the storage
+and loss moduli over a range of bending
+frequencies and curvatures, can be
+altered by changing (1) the material
+properties of the hydrogel that makes
+up the intervertebral joint, (2) the
+length of the intervertebral joint, or
+(3) the shape of the vertebrae. BVCs
+are sufficient to function as propulsive
+elements in swimming aquatic robots:
+in Tadro4 and MARMT the
+BVC converts a simple pitch oscillation
+from a servo motor into a wave
+of bending that drives the caudal fin
+laterally.
+Having identified variables that in-
+fluence the mechanical behavior of
+BVCs, we offer a few observations for
+those wishing to build jointed, flexible
+biomimetic skeletons for use in flexible,
+flapping propulsive systems:
+(1) Design of biomimetic systems:
+Engineered systems that are much
+
+simpler than the targeted biological
+system can match and extend
+the targeted range of mechanical
+behaviors.
+(2) Control of mechanical properties:
+The spacing of rigid elements
+in a flexible matrix is more important
+than the shape of the rigid elements
+or the material properties of
+the flexible material.
+(3) Control of reconfiguration: Because
+of the strain- and strain-ratedependence
+of viscoelastic materials,
+no passive, flexible propulsive system,
+if its E′ and E″ matches that
+of the vertebral column of sharks,
+will produce constant motions over
+a wide range of motor inputs.
+This work is a straight-forward example
+of one method of biomimetic
+design (Fish, 2006; Long, 2007):
+describe, test, build, and test. Start
+by identifying a specific operational
+context—aquatic undulatory propulsion
+in this case. Then describe,
+quantitatively, the biological system’s
+functional morphology. Next, test
+the morphology’s mechanical behavior
+under physiologically relevant testing
+conditions. Finally, build and test
+simple biomimetic models of the system
+that change just a single structural
+variable over a wide range. Repeat this
+process with different variables, ceteris
+paribus, until the designer knows
+which variables permit the natural system
+and its operational range to be
+mimicked or extended in biomimetic
+form.
+
+INTRODUCTION
+Filter-feeding elasmobranchs are a highly migratory and largebodied
+group of fishes; these combined factors make it difficult to
+investigate their prey capture mechanisms in a laboratory setting or
+in situ. This type of information is important, however, because the
+size and type of prey that are filtered are often a determinant of
+distribution in these poorly known fishes (Sims and Quayle, 1998;
+Sims, 1999). Furthermore, prey capture and food preference in
+pelagic elasmobranchs represent foundational data for models that
+predict migratory patterns and are used to assess and maintain wellmanaged
+fisheries stocks, especially in areas where these species
+are harvested heavily with little regulation (Colman, 1997; Dewar,
+2002; Stevens, 2007; Dewar et al., 2008).
+Filter-feeding fishes consume vast numbers of tiny (5–3000m)
+prey by passing immense quantities of water through their
+oropharyngeal cavity (Sanderson et al., 1994; Cheer et al., 2001;
+Friedland et al., 2006; Smith and Sanderson, 2007). The mechanics
+of cartilaginous filtration are likely similar to that of smaller ram
+filter-feeding fishes: swimming forward with an open mouth,
+ingesting food particles and expelling water out of the gill openings.
+Food particles may be trapped on gill rakers and transported to the
+esophagus. Alternatively, food particles might be entrained and
+concentrated without ever contacting the gill rakers. Using
+invertebrate filter feeders as a model system, Rubenstein and Koehl
+(Rubenstein and Koehl, 1977) and later LaBarbera (LaBarbera,
+1984) and Shimeta and Jumars (Shimeta and Jumars, 1991)
+described five basic mechanisms by which particles ranging in size
+from 10–7 to 10–1 cm can be passively intercepted by a fibrous
+biological filter: (1) sieve filtration, (2) direct interception, (3) inertial
+impaction, (4) gravitational deposition and (5) diffusion deposition.
+In sieve filtration, particles that are larger than the pore size of
+the filter cannot pass through the mesh and are retained, whereas
+particles smaller than the pore size pass through (Fig. 1A)
+(LaBarbera, 1984). In industrial dead-end sieving, the filtering
+medium is positioned to lay perpendicular to the fluid streamlines,
+causing particle deposition to occur either along the filter’s surface
+or as the fluid moves through the filtering element (Sibanda et al.,
+2001). It had been assumed that filtering fishes sieve their planktonic
+prey, but this notion was refuted by a gut content study showing
+prey sizes smaller than the distance between gill rakers (Langeland
+and Nøst, 1995). In the remaining mechanisms of filtration, particles
+smaller than the filter’s pore size are captured by direct contact with
+the filtering element (LaBarbera, 1984; Shimeta and Jumars, 1991).
+Direct interception is the most common form of particle capture
+among marine invertebrate filter feeders (Rubenstein and Koehl,
+1977). This occurs when a neutrally buoyant particle following a
+streamline comes within one particle radius of a filtering fiber, where
+it adheres to mucus or some other adhesive surface. Conversely, in
+
+inertial impaction, a sharp turn in the fluid streamline causes a
+negatively buoyant particle to leave the streamline and impact a
+filtering surface (Rubenstein and Koehl, 1977). Gravitational
+deposition is similar to inertial impaction except that particles are
+not separated from the fluid by a sharp acceleration of the streamline,
+but rather by a constant gravitational force (Rubenstein and Koehl,
+1977; LaBarbera, 1984; Shimeta and Jumars, 1991). Finally, in
+diffusion deposition, very small particles deviate from the
+streamlines because of random Brownian motion (Rubenstein and
+Koehl, 1977; LaBarbera, 1984; Shimeta and Jumars, 1991). This
+method captures particles smaller than those that are important for
+ram filter-feeding organisms.
+Fishes filter feed at higher Reynolds numbers than invertebrates,
+and two additional methods should be considered: cross-flow
+filtration and vortex filtration. Industrial cross-flow filtration takes
+advantage of the shear generated by fluid flow parallel to the surface
+of a filter to clear the filter mesh of trapped particles and concentrate
+them at the end of the filter chamber (Bott et al., 2000; Sibanda et
+al., 2001). This has been hypothesized to work in some filter-feeding
+fishes when ingested food particles do not contact the gill rakers;
+instead, they travel parallel to the surface, eventually concentrating
+near the esophageal opening (Fig.1B) (Brainerd, 2001; Sanderson
+et al., 2001; Callan and Sanderson, 2003). The final method of
+filtration that should be considered is vortex or hydrocyclone
+filtration (Fig.1C). In this case, water and food particles would enter
+through the mouth into a bilaterally symmetrical vortex near the
+internal gill openings. Water would then exit out the gill slits and
+food particles would be collected near the esophagus or resuspended
+inside the buccal cavity, increasing the chances of collision with
+sticky surfaces near the esophageal opening. The mechanics behind
+this are best appreciated by an analogy to a common household
+vacuum. Some bagless models use vortex filtration where dirt-laden
+air is entrained in a vortical flow inside a cylindrical or conical
+chamber. The rotation of the fluid establishes a radial pressure
+gradient exactly sufficient to maintain a circular trajectory for a
+neutrally buoyant particle. However, this pressure gradient is
+insufficient to maintain a circular trajectory for negatively buoyant
+particles, which subsequently accumulate near the periphery
+(Trakumas et al., 2001). The densest and largest particles will be
+expelled early in the cyclone whereas the smaller and less dense
+particles will only be expelled with a narrowing vortex. The clean
+air then passes back through the center of the vortex and exits out
+the top of the cylinder.
+We faced an interesting challenge – a range of possible filtration
+types with associated differences in prey capture mechanisms and
+efficiencies and a set of fishes that is both morphologically diverse
+and experimentally intractable. We suggest that simple physical
+models are the best routes to investigate an initial set of predictions
+about filtration efficiency and prey size selectivity. We therefore
+tested a model of the open mouth of a ram-filtering fish that samples
+particles both from a simulated esophagus and from a set of
+simulated gill slits equipped with gill rakers. We expected this model
+to give us qualitative insight into the effect of variation in
+morphological (e.g. gill slit number, size, angle and buccal length)
+and physiological (e.g. flow velocity) parameters on efficiency and
+selectivity.
+Our goals in this study were to: (1) show that a simplistic physical
+model loosely based on a filter-feeding elasmobranch allowed us
+to measure trends in size selectivity and efficiency of particle
+capture; (2) determine the effect of changing swimming speed on
+the size distribution of captured particles; (3) determine the effect
+of morphological variation, including variation in gill slit number,
+gill slit orientation, gill permeability and buccal depth, on the size
+distribution of captured particles; (4) test the relative importance of
+the gill rakers and the esophagus in particle capture; and (5) use
+measurements and inferred swimming speeds from neonatal whale
+sharks to predict their ability to filter different sized prey items from
+the water column.
+MATERIALS AND METHODS
+Anatomy of the filtration system
+Four neonatal whale sharks, Rhincodon typus (Smith 1828), were
+obtained from the Marine Vertebrate Collection at Scripps Institute
+of Oceanography (La Jolla, CA, USA). We measured each shark’s
+total length (TL), fork length (FL), gill width when the gill opening
+was fully stretched, gill height, distance from the opening of one
+gill slit to the next, mouth height, mouth width and total distance
+from the leading edge of the mouth to the esophageal sphincter
+(orophanyngeal distance). We also measured the distance between
+the gill rakers, which we refer to as pore size. Gill width, gill height
+and distance between gills were expressed in order from gill 1
+(closest to the mouth) to gill 5. The four neonatal whale sharks
+ranged in size from 533–591mm TL and 439–468mm FL (Table1).
+It is important to note that the simplistic model is only loosely based
+on the anatomy of the neonatal whale sharks. The model’s purpose
+is to understand how differing fish morphologies affect filtration
+efficiency and size selectivity. To accurately predict the prey of
+neonatal whale sharks, we would suggest using a model that more
+closely resembles this fish, e.g. a three-dimensional rapid prototyped
+model based on computed tomography scans.
+Predicting swimming speed
+To determine the mean swimming speed of neonatal whale sharks,
+we compared log-transformed length data from measured whale
+sharks (TL or FL) with log-transformed mean swimming speeds of
+both sharks and bony fishes compiled from published literature (see
+
+supplementary material TableS1). The relationship between fish
+length and swimming speed was analyzed using linear regression
+(SPSS Statistics 16, IBM, Somers, NY, USA). It is important to
+note that adult filter-feeding sharks appear to swim at slower speeds
+[<0.1body lengths (BL)s–1] than other sharks and bony fishes.
+However, because swimming speeds have never been measured on
+neonatal whale sharks, we based our predictions on the relationship
+between an organism’s size and known swimming speeds, not on
+those of adult filter-feeding sharks.
+Filtration models
+To estimate the effects on filtration efficiency from individual
+parameters, we constructed models of a ram suspension-feeding fish
+roughly based on morphological measurements of neonatal whale
+sharks (photos of ram feeding adult whale sharks are available in
+supplementary material FigsS1–S3). Our simple cylindrical models
+were created from 1l soda bottles with the bottom cut off so that
+the mouth of our model had an 8.5cm diameter. A cylindrical model
+was selected over a conical model based on both our observations
+of filter-feeding adult whale sharks in the Yucatan and observations
+of ram filter-feeding bony fishes by Cheer et al. (Cheer et al., 2001),
+who noted that gill arch abduction during ram feeding resulted in
+the oral cavity of the fish becoming more cylindrical in appearance.
+The length of the bottles was 23.0cm including the neck of the bottle
+and 19.5cm without the neck. We plugged the neck of the bottle
+with a rubber stopper to simulate a closed esophageal sphincter. A
+4mm diameter tube was inserted through the stopper so the leading
+edge was exposed to the posterior buccal cavity. The end of the
+tubing outside of the bottle was connected to a peristaltic pump to
+simulate particle ingestion through the tubing at a constant rate of
+8.2mlmin–1. Gill openings were cut with polyethylene mesh of
+various sizes to simulate different gill resistivities.
+For the experiments we started with a standard model that was
+similar to the morphology measured for neonatal whale sharks, with
+a few adjustments: four gill openings [which is intermediate between
+bony fishes (with a singular opercular opening and five gill slits
+with four gill arches on each side of the pharynx) (Harder, 1975)
+and the elasmobranches (with five to seven gill slits and typically
+five gill arches on each side of the pharynx) (Butler, 1999)], 90deg
+gill orientation to the midline of the bottle (Cheer et al., 2001), 0.5cm
+gill width, 4.5cm gill height, a buccal cavity (mouth to final gill
+opening) 19.5 or 23cm from mouth to esophagus, 1000m mesh
+net covering the gill openings (measured in neonatal whale sharks),
+and 45cms–1 flow speed. We then systematically manipulated gill
+number (one, two, three, four and five gill openings), as there is
+some evidence that elasmobranch parabranchial chambers receive
+varying amounts of water flow and have differing levels of oxygen
+extraction (Piiper and Schumann, 1967; Ballintijn, 1972; Summers
+and Ferry-Graham, 2001), gill orientation [0 and 55deg orientation
+to the midline, similar to Cheer et al. (Cheer et al., 2001)] and
+permeability (no mesh, 105, 200 and 2000m to represent differing
+pore sizes of fishes). The 105 and 200m mesh sizes were similar
+to the width between rakers measured in smaller teleosts [e.g. herring
+(Gibson, 1988), singidia tilapia (Goodrich et al., 2000), and Japanese
+anchovy, Pacific round herring and Japanese jack mackerel (Tanaka
+et al., 2006)], and the larger mesh size (1000m) was similar to
+those measured from neonatal whale sharks (Motta et al., 2010).
+Gill size was increased to 1.5cm width, representing the enlarged
+gill slits of the basking shark, buccal length was decreased (to 15cm
+total, 12cm buccal) to test for differences in ontogeny, and flow
+speed (fish swimming speed) was increased to 60cms–1 for each
+gill number variation.
+Adjusting each feeding parameter separately allowed us to test
+our initial hypotheses about how differing morphologies affect
+filtering performance. First, in all treatments, we hypothesized that
+the majority of particles collected would be larger than the mesh
+size if direct interception is the primary mechanism of filtration,
+and a mixture of particle sizes if other mechanisms of filtration are
+occurring. Second, we hypothesized that, if cross-flow filtration is
+occurring, the majority of particles would be trapped close to or
+inside the esophagus. Third, we hypothesized that increasing the
+swimming speed should increase the filtration efficiency because
+more particles will come into contact with the filtering elements if
+some form of direct interception or inertial impaction is occurring.
+Similarly, the filtration efficiency should also increase with smaller
+mesh sizes. Fourth, we hypothesized that the slanted gill orientation
+would affect the flow through the buccal cavity and, similarly, may
+alter the mechanism of filtration by creating a vortex near the third
+or fourth gill slit. Fifth, we hypothesized that reducing the buccal
+length would result in higher flow through the buccal cavity, creating
+additional turbulence near the gill slits. This additional turbulence
+may result in longer periods of particle resuspension, reducing the
+number of particles that come into contact with the filtering medium
+and hence reducing the filtering efficiency. Finally, we hypothesized
+that increasing the gill slit size would increase the surface area for
+filtration, resulting in increased filtration efficiency.
+The models were based on the morphology of the neonatal whale
+sharks with a few key exceptions. The gill widths were measured
+by adjusting the gill flaps so that they were fully open during
+measurements. However, in all but one trial, we adjusted our bottle’s
+parameters so that only a portion of the flap would be open during
+feeding, as it is unlikely that these gill coverings are fully stretched
+during a feeding event. Mouth height and width remained fixed in
+all models. It is also important to note that filter-feeding sharks have
+a variety of mouth shapes and heights. We chose a cylindrical version
+to model, but adjustments to the mouth morphology may lead to
+differences in size selectivity and filtration efficiency.
+Filtration experiments
+Experiments were carried out in an 802828cm recirculating
+freshwater flow tank with a 422828cm working area and 260l
+total volume. The model was secured in the center of the tank using
+Ta
+
+fishing line, which was anchored above the tank. To mimic plankton,
+we milled 20mm poly(methylmethacrylate) cylinders to produce
+slightly negatively buoyant, irregularly shaped particles (density
+1.14gcm–3) ranging in size from 20 to 2000m. Density for marine
+copepods has been estimated at 1.027 to 1.047gcm–3 (Knutsen et
+al., 2001). The size classes chosen were based on the series of meshes
+used during the experiments (e.g. 100, 200, 1000 and 2000m).
+These size classes also coordinate with those typically seen in
+plankton assemblages (e.g. >1000m are the largest zooplankton,
+501–1000m large zooplankton and ichthyoplankton, 101–500m
+microcrustaceans, 51–100m net phytoplankton and small
+zooplankton, and 10–50m nanoplankton) (Moloney and Field,
+1991). The use of non-spherical particles does cause some
+complications in understanding how the particles react within the
+flow (e.g. their orientation); however, we believe that using particles
+similar to those collected during an actual feeding event gives us a
+better understanding of how plankton would be captured along the
+gill rakers or at the esophagus. Sixty grams of particles were added
+to the flow tank and allowed to circulate for 1 h prior to
+experimentation to approximate equal distributions throughout the
+tank. The initial seeding density was collected and measured so that
+we could compare the particle size distributions in individual
+experiments with the total size distribution within the tank. The tank
+was only seeded a single time during these experiments because the
+particles collected during all 64 experiments comprised less than
+3% of the total particles within the flume.
+The model was oriented with the gape facing into the flow,
+mimicking the conditions experienced by a ram filter-feeding fish
+during a feeding event (Fig.2). Particles moved through the buccal
+cavity and were collected either on the gill rakers or inside the
+esophagus. Esophageal particles were pumped through the tube and
+were captured in an external flask. The bottles remained in the flow
+for a total of 3min, a period chosen because there was very little
+clogging of any mesh size during this brief exposure. During
+elasmobranch feeding events, raker clogging is likely prevented by
+periodic swallowing of the collected plankton. At the end of the
+experimental run, the leading edge of the bottle was covered and
+particles that remained on the mesh and those contained in the
+external flask were collected. Each experiment was replicated four
+times for a total of 64 experiments.
+Permeability measurements
+Permeability measurements of the entire gill structures were
+performed on intact neonatal whale sharks. Each shark was placed
+in a 153l ice chest filled with distilled water. Water was pumped
+out from the ice chest at a constant flow rate of 114mls–1 with a
+Flojet Model 2100–953–115 pump (ITT Corporation, Santa Ana,
+CA, USA) into a 4.41l cylindrical (441cm3
+) tank, which functioned
+as a manometer. Water flowed gravimetrically from the cylindrical
+tank into the neonatal shark’s buccal cavity using 1.4cm diameter
+plastic tubing. The tubing was inserted into a mask that sealed within
+the shark’s mouth (the mask was constructed from closed-cell
+polyurethane foam for larger individuals and molded silginate for
+small individuals) so that the resistance of the gill openings could
+be estimated by the change in water column height (pressure) in
+the cylindrical tank. We calculated the resistance of a neonatal whale
+shark’s buccal cavity using the equation:
+where R is the resistance through the gill structure, P is the change
+in pressure estimated by measuring the change in water height of
+the manometer when the shark was attached to the tubing, and Q
+is the flow rate. These measurements helped us to determine whether
+the entire gill structure (including the gill filaments which were
+ignored during these trials) had a high level of resistance to flow.
+The change in pressure (P) was calculated as:
+P  gh, (2)
+where  is the density of water, g is gravity and h is the mean change
+in height of the manometer. This equation allowed us to estimate
+the permeability of the gill structures in preserved neonatal whale
+sharks (N3, as one shark could not be measured) within an order
+of magnitude. We compared the whale shark’s permeability
+measurements with those measured from neonatal specimens of three
+additional filter-feeding elasmobranchs, Mobula munkiana (N2)
+and M. japonica (N1).
+Reynold’s flow (Re), the ratio of inertial to viscous forces, is an
+important component when attempting to quantify the effect of a
+filtering element on the flow around it (Shimeta and Jumars, 1991).
+Reynolds conditions at the level of the gill slits were calculated
+using the standard equation:
+Re  QL / A, (3)
+where Q is the flow at the level of the gill slits, L is the permeability
+of the mesh rakers,  is the kinematic viscosity and A is the total
+area of gill openings.
+Data analysis
+We assessed the initial distribution of particle sizes by homogenizing
+the milled (seeding) particles, collecting a large subsample
+(N10,395 particles) and determining its size distribution. Following
+trials, we also subsampled from the particles collected on the gill
+rakers. All esophageal particles were measured because of the
+relatively small number collected there. We recognize that errors
+in plankton subsampling are common (van Guelpen et al., 1982);
+however, these errors are reduced by increasing sampling size. Our
+seeding subsampling is based on over 10,000 particles for a total
+of six separate subsampling events. Experimental trial data were
+based on five separate subsampling events from each replication
+(or 20 subsampling events). Trial run order was chosen haphazardly
+except that some 45cms–1 trials were run prior to 60cms–1 trials
+and some were run after.
+
+To ensure that particle distributions within the flume remained
+similar over time (e.g. to ensure that larger particles did not settle
+out of the water column), we performed a separate sampling
+experiment. Once again we milled 60g of particles, subsampled from
+the initial seeding density, allowed the particles to circulate within
+the running flume at 45cms–1 for 1h prior to subsampling, and then
+subsampled particles for 1min at 30min intervals for a total time
+period of 240min (i.e. at 0, 30, 60, 90, 120, 150, 180, 210 and
+240min) using a 105m net. Following the same sampling
+techniques as the experiments, we compared the subsamples with
+the initial seeding density distributions. We compared the
+distributions, first excluding particles <100m and again excluding
+<50m to reduce errors from sampling with a net that is larger than
+two of our particle size categories and because we are primarily
+interested in understanding how the distributions of the larger
+zooplankton change, not the distributions of nanoplankton and
+phytoplankton, which are not the food sources being targeted. The
+different size classes of plankton were classified as follows:
+1–50mvery small, 51–100msmall, 101–500mintermediate,
+501–1000mlarge and >1000mvery large. We performed a
+weighted linear regression of the combined percentage of
+intermediate, large and very large plankton collected during
+subsampling events over 240min.
+All subsamples were collected, mounted on slides so that the
+particles didn’t touch and analyzed for size distribution using a Zeiss
+steREO Discovery V20 microscope (Carl Zeiss Imaging Gmbh,
+Jena, Germany). Particles were viewed using the microscope
+imaging program Axio Vision (Carl Zeiss) and photographed using
+a Zeiss Axiocam HRC camera. Photos were then uploaded into NIH
+Image J software (version 1.4, http://rsbweb.nih.gov/ij/) for analysis.
+We measured the total area and the mean Feret’s diameter for each
+particle in the subsamples (N10,395) of the seeding particles and
+the experimental trial subsamples. Although creating a continuous
+scale for these particles would give us a more in-depth visualization
+of their actual size distribution, binning particles into size classes
+is an easier way to visualize trends in particle capture and to infer
+results by comparing the sizes of experimental particles with live
+plankton size classes. The color scheme for size classes will remain
+constant throughout all histograms (Figs4–8).
+Filtering efficiency was determined by weighing air-dried
+particles for each replication of the trials. Data are expressed as
+mean efficiencies for all four trials. The weights of the collected
+particles were small compared with the seeding density, so efficiency
+values are expressed as per mil (‰) rather than as a percentage.
+Filtration efficiency (E), or the percentage of weight-specific
+particle capture per 3min trial, was calculated using the equation:
+where WP is the weight of the particles either at the esophagus or
+at the gill rakers and WS is the calculated total weight of the seeded
+particles within the flume that are predicted to flow through the
+model’s aperture. This allowed us to get a snapshot of the amount
+of particles (by weight) being filtered within a relatively short
+amount of time. Because we had such a small amount of particles
+collected per trial, the filtering efficiencies are expressed as total
+efficiency over the full 12min. Note that filtration efficiency is used
+as a proxy for determining the amount of particles (by weight)
+collected along the gill rakers over 12min compared with the amount
+of particles available in the flume. Our filtration efficiency
+calculation is similar to methods of industrial filtration efficiency,
+which is expressed as {[1–(downstream concentration/upstream
+E = 1000 ×
+WP
+WS
+ , (4)
+concentration)]100}. This is vastly different from filtering
+efficiencies expressed in live fishes (Drenner and Mummert, 1984;
+Garrido et al., 2007).
+We predicted that changing the morphology (i.e. gill number,
+raker permeability, buccal length, gill-slit orientation and gill size)
+and/or the swimming speed of the model would affect the size
+distribution of particles collected along the gill rakers; therefore,
+we hypothesized that particle distributions collected during the
+experiments would not be the same as the seeding distribution. To
+test this hypothesis, four replicates of each version of the physical
+model were compared with six replicates of the initial seeding
+distribution for the five particle size categories. The various physical
+models were then compared with the basic model (four gill slits,
+45cms–1 flow) in the same manner to further evaluate the effects
+of model alterations.
+Poisson regression was used to determine whether particle
+distributions differed significantly between the seeding distribution
+and the various physical models, and between the basic physical
+model and the other model variants. The generalized linear model
+(GLM) used in comparisons was of the basic form: log(no.
+particles)sourcesize category, and was analyzed using analysis
+of deviance (ANODEV) (Skalski, 1996). The process of analyzing
+GLMs with ANODEV is analogous to analyzing linear models with
+ANOVA, but more appropriate for the replicated contingency table
+design used in this study. The scale parameter (MDEVerror
+SSerror/d.f.error) of the interaction term was calculated from ANODEV
+results to determine the amount of dispersion. For overdispersed
+data (scale parameter>1), F-statistics were calculated; in contrast,
+2 statistics were considered to be more appropriate when data were
+underdispersed (scale parameter<1).
+RESULTS
+Swimming speed
+Swimming speed decreased significantly with length based on the
+available teleost and elasmobranch data (r2
+0.59, P<0.001; Fig.3).
+This relationship was best represented by the following equation:
+swimming speed(BLs–1)18.30x–0.78, where BL is body length.
+Based on these results, we predict that a neonatal whale shark of
+
+approximately 50–60cm TL swims at approximately 1BLs–1, or
+45–56cms–1.
+Flume seeding
+We found that intermediate, large and very large particles remained
+suspended in the water column throughout the full 240min trials;
+therefore particle settling was negligible (r2
+0.01, P0.79) (see
+supplemental material Fig.S4). Our initial seeding distribution of
+particle sizes in the recirculating flume was primarily composed of
+intermediate particles between 101 and 500m in diameter (Fig.4A).
+Seeding distributions are represented as mean (±s.d.) percentages
+of the total particles that were subsampled (N10,395) from the 60g
+of seeding particles.
+Standard model
+Our standard model collected particles in the intermediate to large
+size classes (101–1000m) at the esophagus and large particles
+(501–1000m) at the gill rakers (Fig. 4B,C, respectively). The Re
+at the level of the filtering elements was calculated to be 1.4105
+.
+Compared with our seeding density, there was a threefold increase
+in large particles (501–1000m) collected at the esophagus
+(Fig. 4D) and a twofold increase in large particles collected at the
+gill rakers (Fig. 4E), even though there were almost twice as many
+101–500m particles seeded in the tank. Comparisons of the
+seeding distribution treatment with the standard model for all five
+seeding categories showed that the distribution of particles
+collected at the gill rakers was significantly different from the
+initial seeding morphology; i.e. there was a significant increase
+in large and very large particles (F4,404.71, P<0.001). Specifically,
+there was a twofold increase in very large (>1000m) particles
+collected along the rakers. The filtration efficiency for esophageal
+particles was very low (total particles collected, N135,
+E0.006‰) and much higher at the rakers (E0.56‰). Because
+there was very little filtration occurring in the esophagus, we will
+
+focus on the particle capture at the gill rakers. Therefore, we
+conclude that our model did not evenly collect particles from the
+tank; instead, selective filtering occurred.
+Gill number
+The majority of particles collected in the esophagus for all
+permutations of the model were in the 101–1000m size range, as
+in the control model. Few particles were ‘swallowed’ at the
+esophagus in any of the five treatments (N19–226 total particles
+over four replicates) and the mean total efficiencies over all five
+variations were extremely low (E<0.01‰ total). We did observe a
+very slow-moving esophageal vortex during the trials that increased
+in speed as we increased the number of gill openings. Additionally,
+in the four- and five-gill trials, we noticed an increase in the number
+of particles collected in the esophagus (N>100) compared with the
+one-, two- and three-gill treatments. When we increased the
+experimental number of gill slits to four or five, there was turbulence
+near the esophageal opening; however, we could not determine
+whether it was a single vortex or a pair of vortices. This turbulence
+was rather slow moving during the one- and two-gill trials and
+appeared to increase in speed in the trials with higher numbers of
+gill slits.
+Examination of the particles collected at the gill rakers showed
+a shift in particle distribution from the initial seeding distribution
+(Fig.5). Re for one, two, three, four and five gills were 5.6105
+,
+2.8105
+, 1.9105
+, 1.4105 and 1.1105
+, respectively. In the onegill
+model, the particles collected on the rakers were mostly small
+(51–100m) or large to very large (>500m) and the distribution
+was statistically different from that of the seeding distribution
+(F4,408.16, P0.003). As we increased the number of gill openings,
+the size distribution of particles collected shifted to large to very
+large particles (>500m) and all permutations except three gills were
+significantly different from the seeding distribution (two gills,
+F4,403.67, P0.01; three gills, F4,402.40, P0.07; four gills,
+F4,404.71, P0.003; and five gills, F4,4010.63, P<0.001). The
+physical model transitioned from behaving as a bimodal-type filter
+that collects particles in two narrow size ranges to an intermediatetype
+filtration system that collects particles in a much broader size
+range. Although our method precluded a quantitative examination
+of the filtering performed at each gill slit, certain trends in particle
+deposition were evident. During the two-gill trials, more particles
+were caught in the first gill slit (the opening closest to the mouth
+of the model) than in the second, whereas in the three-gill trials,
+particles were captured primarily at the third gill slit. Particles
+appeared evenly distributed across all slits in the four- and five-gill
+trials.
+Throughout all trials we collected fewer very small (≤50m) and
+intermediate particles (101–500m) compared with the seeding
+distribution; however, each trial also collected more large and very
+large particles (>500m) than expected. Filtration efficiency
+decreased during the first three trials and then increased during the
+four- and five-gill trials. The total efficiencies from each trial were
+as follows: one gill, 0.34‰; two gills, 0.25‰; three gills, 0.11‰;
+four gills, 0.56‰; and five gills, 0.52‰.
+Comparisons of the standard model with the one-, two-, threeand
+five-gill trials showed that the distributions from all but the
+two-gill permutation were significantly different from the standard
+model (one gill, F4,306.71, P0.001; two gills, F4,301.65, P0.19;
+three gills, F4,307.02, P0.004; five gills, d.f.4, 2
+46.28,
+P<0.001). The distributions of small and intermediate particles were
+similar to those in the standard model except there was a 20%
+increase in intermediate particles in the two-gill permutation. The
+proportion of large particles was approximately 11% less than the
+standard model in the two- and three-gill trials.
+Change in speed
+The total number of particles collected at the esophagus and at the
+gill rakers was more numerous at a flow speed of 60cms
+–1. There
+was a more even distribution of particle sizes both at the esophagus
+and at the gill rakers (Fig.6) compared with the standard model. Re
+at 60cms
+–1 were as follows for one-, two-, three-, four- and five-gill
+trials: 7.4105
+, 3.7105
+, 2.5105
+, 1.9105 and 1.5105
+,
+respectively. During these trials, increasing the number of gill slits
+to five resulted in smaller particles collected on the rakers and, in all
+but the five-gill trials, resulted in distributions that were significantly
+different from those of the seeding density (one gill, d.f.4, 2
+6.60,
+P<0.001; two gills, d.f.4, 2
+5.74, P<0.001; three gills, F4,408.99,
+P<0.001; four gills, F4,405.71, P<0.001, five gills, F4,401.97,
+P0.88). Trials with fewer gill openings collected particles primarily
+in the intermediate to large size range (101–1000m). We noticed
+the same basic trends in the 45cms
+–1 trials (e.g. one-gill trials picked
+up a lot of particles within 10 to 20s) and once again the speed of
+the esophageal vortex or vortices was much faster in the four- and
+five-gill permutations. More large and very large particles were
+collected compared with the seeding distribution.
+At the higher speed, filtering efficiency did not increase with the
+number of gill slits. The 60cms–1 efficiencies were all lower than
+the corresponding 45cms
+–1 treatments (one gill, E0.16‰; two gills,
+E0.04‰; three gills, E0.02‰; four gills, E0.05‰; five gills,
+E0.04‰).
+The distribution of particles from all of the increased speed trials
+except the one-gill trial differed significantly from the standard
+≤50 μm
+
+model (one gill, F4,302.63, P0.621; two gills, F4,3031.01,
+P<0.001; three gills, F4,303.75, P0.01; four gills, F4,305.65,
+P0.002; five gills, F4,3016.69, P<0.001). There was an
+approximately 10% increase in very small particles during the fivegill
+trial compared with the standard model, and the five-gill trials
+also collected a higher proportion of small particles (14%) compared
+with the standard model. There was also a higher proportion of the
+large particles collected in the one-gill trials (~11%) compared with
+the standard model. Finally, there was a smaller proportion of very
+large particles collected in each of the 60cms
+–1 trials, with the largest
+difference in the one-gill trials (~14% less than the standard).
+Gill orientation
+Adjusting the gill orientation did not change the distribution of
+particles collected at the esophagus; however, there was a shift from
+a band-pass-type filter in the 90deg orientation to a notch-type filter
+in the 55deg orientation at the gill rakers (Fig.7A), although the
+Re did not change. Particles collected in the 55deg orientation were
+primarily very small (<50m) or very large (>1000m) and the
+raker distributions were significantly different from the seeding
+distributions (F4,406.04, P<0.001). There was no noticeable increase
+in turbulence near the gill slits with this change in gill orientation;
+however, particle capture occurred primarily along the lower portion
+of the third and fourth gill openings. The total filtration efficiency
+for the 55deg trials (0.12‰) was much lower than for the 90deg
+trials (0.56‰). The distribution of particles in the 55deg orientation
+model differed significantly from the standard model (F4,3017.33,
+P<0.001). There was an increase in very small particles collected
+(~18%) and a decrease in the proportion of intermediate and large
+particles (~10 and 21% decrease, respectively) compared with the
+standard morphology, resulting in a more even distribution of
+particles.
+Oropharyngeal cavity
+A shortened oropharyngeal cavity did not affect the size distribution
+of particles collected in the esophagus. Particles collected along the
+rakers were primarily very small (≤50m) or large to very large
+(>501m), and the distribution was significantly different from the
+seeding density distribution (F4,404.28, P<0.001) (Fig.7B). The
+shortened morphology resulted in an increased vorticity inside the
+buccal cavity, as expected; however, we did not predict that there
+would also be an increased rate of particle ejection out of the leading
+edge of the model. The total filtering efficiency (0.12‰) was much
+lower relative to that in the longer buccal cavity model (0.56‰).
+The distribution of particles in the shortened buccal model differed
+significantly from the standard model (F4,304.72, P0.004). There
+was a slight increase in the proportion of very small particles (~8%)
+compared with the standard model and the total distribution of
+particles collected was more even across size classes.
+Increased gill width
+An increased gill width decreased the relative contribution of very
+small particles that were collected in the esophagus from 12 to 3%.
+The particles collected at the gill rakers were primarily very small to
+small (≤100m) or very large (>1000m) and the particle distributions
+along the rakers were significantly different from the initial seeding
+distributions (F4,403.57, P<0.001) (Fig.7C). Re were 4.7104 in all
+trials. Filtration efficiency did not increase with increased gill size
+(E0.21‰). The distribution of particles in the increased gill model
+differed significantly from the standard model (F4,3014.09, P<0.001).
+There was an increase in the proportion of small particles (~25%)
+and a decrease in intermediate and large particles (~15 and 22%,
+respectively) compared with the standard model.
+Permeability
+Adjustments to gill raker permeability did not affect the distribution
+of particles collected at the esophagus. Particles collected at the
+esophagus were in the large size range (501–1000m) during all
+trials. The distributions of particles collected in the esophagus using
+the 105 and 200m mesh were similar to those collected using the
+1000m mesh (mostly 100–1000m particles). The amount of
+particles collected at the esophagus was low compared with that
+collected along the gill rakers, ranging from a total of 10 particles
+collected over four replicates in the absence of gill rakers to a total
+of 135 particles collected over four replicates in the 1000m mesh
+trials. During the 1000m mesh trials we noticed the presence of
+turbulence near the esophageal opening; however, we could not
+determine whether this was a bilaterally symmetric vortex or a single
+esophageal vortex.
+Particles collected along the gill rakers at increasing pore sizes
+displayed a shift in size distribution. At low permeability (small
+pore size, 105m) particles were equally distributed, except in the
+small (51–100m) category (105m, F4,406.22, P<0.001; Fig.8A),
+and Re was 1.4103
+. During these trials, particles were heavily
+deposited within 10–20s of the beginning of each trial. We collected
+the most particles off the gill rakers during the 105m trials;
+however, there were almost no particles collected in the esophagus
+(N30). Particle deposition appeared to occur only on the first three
+gill slits and the fourth gill slit rarely had many particles. In the
+200m mesh trials there was a shift in the particle distribution to
+intermediate to large particles (101–1000m; F4,406.88, P<0.001;
+Fig.8B); Re was 2.8103
+. Again, during these trials almost no
+particles were collected in the esophagus (N33 total particles over
+four replicates) and particle capture was equal across all gill slits.
+During the 1000m mesh trials, capture occurred only along the
+third and fourth gill slits. Once again primarily large to very large
+particles were collected (>500m; F4,404.71, P0.003), although
+the total distribution of all particle sizes was more uniform compared
+with the 200m mesh trials. We did not collect any particles during
+the no-mesh trials (Re2.8105
+) or the 2000m mesh trials
+(Re2.5106
+). Particles collected in all trials were greater in
+abundance than expected for the large to very large particle sizes
+(>500m) and lower than expected for the small particle sizes
+(<51m). We saw an increase in the proportion of large particles
+collected compared with the seeding distribution. As expected, the
+lowest permeability measurements had the highest filtration
+efficiency of all of the trials (E1.33‰ for 105m and 0.85‰ for
+200m). The distribution of particles in the 100m mesh trials
+differed significantly from that of the standard model (F4,307.427,
+P<0.001) whereas the distribution in the 200m trials did not
+(F4,301.67, P0.18). There was a decrease in intermediate particles
+in the 105m trials (~10%) compared with the standard model.
+Permeability measurements of the three neonatal whale sharks
+(mean TL563±23.8mm) showed very little extrinsic resistance
+through their buccal cavities (R0.91–6.31Paml–1 s–1) when flow
+rate was measured to be constant at 114mls–1 (Table2). These
+resistance measurements were similar to those of other small filterfeeding
+elasmobranchs (M. japonica0.99 Paml–1 s–1, Mobula
+munkiana specimen 16.36Paml–1 s–1, M. munkiana specimen
+22.27Paml–1 s–1; Table 2). The calculated pressure head across the
+filtering apparatus ranged from 106.19 to 171.86Pa, similar to
+pressure heads calculated by Motta et al. for adult whale sharks
+(113Pa) (Motta et al., 2010).
+DISCUSSION
+Gill number and swimming speed played major roles in the
+distribution of particle sizes collected on the gill rakers. This was
+unexpected as we predicted that the main form of filtration would
+be dead-end sieving, which should only collect particles larger than
+the filter pore size. The particles were primarily caught along the
+gill rakers, which leads us to believe that inertial impaction and
+gravitational deposition were the prominent filtering mechanisms
+during these trials, though we cannot rule out the possibility that
+cyclone filtration was occurring to some degree, as we did document
+a bilaterally symmetrical vortex near the slits in many of the trials.
+In several cases we quantified a shift from a bimodal-type filter to
+an intermediate-type filter or vice versa. For example, when we
+adjusted the number of gill openings from one to five, we saw a
+shift from a bimodal filter (where primarily 51–100m particles
+and >500m particles were filtered) to a filter where only
+intermediate and large particles were filtered. Surprisingly, we saw
+this same trend at increased speeds (bimodal distribution to
+intermediate/large size ranges) except at the five-gill permutation
+(60cms–1), where mostly small particles were caught. This switch
+to smaller particles collected was unexpected, as higher velocity
+flow through the oropharyngeal cavity should have increased the
+contact rate of the most numerous particles in the flow chamber
+(101–500m particles) and, hence, the number of intermediate
+particles filtered.
+Theoretical predictions of an organism’s optimized swimming
+speeds while feeding suggest that the animals should accelerate to
+maximize the number of prey encountered when feeding in lowdensity
+plankton blooms and decelerate when feeding in a highdensity
+plankton bloom (Ware, 1978; Sims, 2000). During the fivegill
+trial, we observed that the increase in swimming speed also
+increased the turbulence near the gill openings within the
+oropharyngeal cavity. More large particles appeared to remain
+suspended in the turbulent esophageal vortex rather than settling
+out on the sieve, providing some evidence that the particles may
+have experienced some degree of cross-flow filtration. This indicates
+that ram filter feeders, using hydrosol filtration or a combination of
+inertial impaction and gravitational deposition, should maintain a
+slower swimming speed regardless of the plankton density if they
+are targeting larger prey and increase their swimming speed if
+targeting smaller prey. Organisms primarily utilizing cross-flow or
+vortex filtration would likely swim at increased speeds to concentrate
+larger prey in the esophageal vortex prior to swallowing.
+Adjustments to the gill morphology resulted in a shift in the
+particle distributions at the gill rakers from intermediate-type
+filtration in our control group (501–1000m particles collected) to
+bimodal-type filtration. It is not surprising that increasing the size
+of the gill slits also resulted in an increased filtering efficiency, as
+increasing the volume of particle-laden water through this structure
+should result in increased opportunities for filtration. These large
+gills would not be necessary in pump suspension- or engulfmentfeeding
+fishes, which filter by first creating a suction force to entrain
+zooplankton-rich water and then subsequently close their mouths
+to force this water over the gill rakers. This point is illustrated nicely
+by comparing the smaller gill morphology of a megamouth shark,
+Megachasma pelagios, which has been hypothesized to use an
+engulfment feeding strategy (Nakaya et al., 2008), with that of the
+large-gilled basking sharks (Bigelow and Schroeder, 1953) and
+whale sharks (Colman, 1997), which use, at least in part, ram
+suspension feeding. Though we had predicted that ram filtration
+efficiency would increase with gill size, we did not predict that the
+particle distribution would shift to that of a planktonic specialist
+without having to adjust the pore size of the filter. These findings
+indicate that the morphology of the filter feeder does play a key
+role in the prey size selectivity of the organism.
+Perhaps the most obvious parameter affecting captured particle
+distribution was gill raker permeability, or pore size, which was
+reflected in our particle distributions. We expected the increased
+filtration efficiency in decreased pore-size permutations (105 and
+200m mesh sizes), because the likelihood of a particle contacting
+the filtering element would be greatly increased relative to the 1000
+and 2000m mesh sizes. Even with this increase in filtration
+efficiency at smaller pore size, the greatest mean efficiency we
+measured was 4.54‰. These seemingly low filtration efficiencies
+are explained by examining optimal foraging theory (Stephens and
+Krebs, 1986), which proposes that animals feeding in high-density
+particle areas can survive well even with low filtration efficiencies,
+provided that their energetic needs are being met (Shimeta and
+Jumars, 1991). We would hypothesize that fishes with low filtration
+efficiencies would likely feed on plankton with high caloric and/or
+lipid values to meet their energetic needs.
+In teleosts, the gill raker structures generally vary by the length
+of the rakers and their spacing (Nelson, 1967; Bertmar and
+Strömberg, 1969; Gibson, 1988; Bornbusch and Lee, 1992; van den
+Berg et al., 1994; Kumari et al., 2005; Friedland et al., 2006; Vigliano
+et al., 2006). However, the gill raker structures (sometimes referred
+to as filtering pads) of the filtering cartilaginous fishes exhibit
+substantial interspecific variation. The four basic raker morphologies
+are: (1) the bristle-like gill raker structures of the basking shark,
+Cetorhinus maximus; (2) the fur-like short gill rakers of megamouth
+sharks, M. pelagios; (3) the widely spaced, flattened filtering pads
+of whale sharks, Rhincodon typus; and (4) the rigid, leaf-like, folded
+filtering structure of devil rays and mantas (Mobulidae) (Fig.9).
+These differences in brachial filter morphology among
+elasmobranchs may result in differences in the basic filtering
+mechanics (e.g. cross flow, direct interception) and cannot be addressed using our simplistic mesh morphology. This topic would
+be best addressed by determining the position of the pad within the
+buccal cavity and taking an in-depth look at the microstructure of
+the filtering pad. For example, we cannot evaluate whether a form
+of hydrosol filtration is occurring without performing histological
+techniques to determine whether a sufficient number of mucal cells
+are present. Rubenstein and Koehl noted that the efficiency of a
+filter can be altered by simply changing the diameter of the pore
+size or the velocity of the water that passes through it (Rubenstein
+and Koehl, 1977). Our model’s rakers were subjected to highvelocity
+(45cms–1) flow and, when combined with a fine mesh size
+(105m), we predicted that the primary method of particle collection
+would likely be a form of inertial impaction sieving. As expected,
+we had the greatest number of particles collected from the gill rakers
+during this experiment and the particle size was similar across all
+size ranges. Decreased permeability (smaller pore size) at the gill
+rakers increased the evenness of the particle sizes that were
+collected; however, there was no visible evidence that shear flow
+was moving particles from the mesh to the esophagus. We predict
+that basking sharks use this type of filtering and would need to either
+periodically clear the rakers to prevent excessive clogging or
+continuously transport particles through some mucous-based
+mechanism. Organisms with a fine mesh size that utilize dead-end
+sieving (similar to the basking shark) are likely planktonic
+generalists, feeding on a wide range of particle sizes. As in industrial
+dead-end sieving, the gill raker structures of organisms using sieve
+filtration would project into the buccal cavity at a perpendicular
+orientation to the water flow, resulting in increased filtration
+efficiency along their surfaces.
+The unique morphology of the whale shark’s filter pads open up
+the possibility of cross-flow filtering. In whale sharks, the rakers
+do not protrude into the buccal cavity. Instead, their morphology
+suggests that they lay flush with the walls of the epibranchials with
+sparse spacing (approximately 1000m pore size) between each gill
+raker. In our experiments, the 1000m rakers collected large to very
+large particles. The very small and small particles (<100m) did
+not accumulate, but rather exited easily through the mesh. Adult
+whale sharks appear to feed primarily through cross-flow filtration
+(Motta et al., 2010). If neonates are also utilizing some form of
+cross-flow filtration, we would expect that the majority of the
+particles collected in the esophagus should be equal to or larger
+than the pore size of the rakers. With the increased permeability of
+2000m mesh, there was an increase in the size of particles that
+were swallowed compared with those swallowed at less permeable
+pore sizes; however, we could not verify whether cross-flow
+filtration was occurring.
+The model we developed allows us to determine which parameters
+are important for both dead-end sieving and cross-flow filtration in
+a way that is difficult to examine using computational models.
+Empirical data from live ram suspension-feeding fishes is difficult to
+obtain in teleosts as: (1) they are generally schooling fishes that
+become agitated when separated from their conspecifics and (2) they
+are typically small in size, limiting the use of endoscopy (Cheer et
+al., 2001). Conversely, filter-feeding elasmobranchs are some of the
+world’s largest fishes and are not easily acquired for experimental
+purposes. Physical models are an inexpensive alternative to
+maintaining live specimens in a laboratory and can be created by
+measuring the anatomical parameters of fixed specimens from marine
+vertebrate collections. By focusing on how the mechanism of filtering
+changed with differing buccal anatomies, we were able to make
+predictions about the feeding mechanisms and potential prey
+preference of suspension-feeding fishes. Our physical model
+demonstrated that the filtration efficiency and particle size distribution
+collected during ram suspension feeding is intimately connected to
+both an individual’s anatomy and the swimming speed of the animal.
+
+
+
+Biomechanists, with help from Isaac
+Newton and William Froude, have
+developed a good understanding of
+the forces involved in locomotion on solid
+ground1
+. Even if an animal should slip beneath
+the waves and undulate into the deep there
+are equations and techniques, courtesy of
+Claude-Louis Navier, George Stokes and
+computational fluid dynamics, that nicely
+explain and predict its motion2
+.
+However, when an animal moves through a
+granular material, predictability and theoretical
+underpinning have been as elusive as seeing
+a world in a grain of sand. In a paper in the
+Journal of the Royal Society Interface, Maladen
+and his colleagues3
+ describe how they have
+used a refinement of their resistive force theory
+to show that a sand-swimming lizard moves
+forward about as fast as it can. Their model will
+allow biologists and engineers to explore locomotion
+in granular solids with unprecedented
+ease and speed.
+Sandfish (Scincus scincus), also known as
+skinks, are not fish but lizards. They are drab,
+tan-coloured creatures with short, sprawling
+limbs. But they have one impressive ability
+—when startled, a sandfish can vanish completely
+into a North African or Middle Eastern
+dune in less than a second (Fig. 1). If you dig
+at the spot where it vanished you will find
+nothing but sand, the lizard having wriggled
+away under the surface.
+In earlier work using X-ray videography,
+Maladen and colleagues4
+ found that sandfish
+move not by paddling with their legs but by
+undulating their bodies from side-to-side to
+swim through the sand. The sandfish throws
+its body into an S-shape with an amplitude of
+about 20% of its length. This sinusoidal wave
+travels backwards along the body at about
+twice the speed with which the animal moves
+forward, amounting to a wave efficiency of
+about 0.5. In their new work, the researchers
+used this conclusion as a benchmark for further
+studies with simulations, mathematical
+models and a robotic lizard.
+The behaviour of a granular material such
+as sand is tricky to understand because it can
+act as both a solid and a fluid. The many small
+particles can flow like water but, under the
+right conditions, sand can be as unyielding
+as the rock from which it came. This is where
+resistive force theory (RFT) comes in.
+The theory was inspired by models of tiny
+aquatic organisms moving in water, where
+movement is constrained by the viscosity of the
+fluid. In granular materials, however, it turns
+out that frictional drag is more important than
+viscosity, and drag values for short segments of
+the submerged object are an important input
+of RFT. One innovation of this work3
+ is the
+use of drag values derived from simulations
+rather than those laboriously gathered by pulling
+objects through media of differing density.
+Using the simulation-derived drag values and
+kinematics measured from videos, Maladen
+et al.3 found that RFT predicted the wave efficiency
+reasonably well, although not perfectly
+An alternative to RFT is a numerical modelling
+technique that takes into account the
+interactions of spherical grains with each
+other and with a deforming, submerged solid
+shaped like a sandfish. However, simulating
+sand-sized particles would take weeks
+of computer time. Fortunately, sandfish are
+happy to burrow in glass beads 3 millimetres
+in diameter. By observing the lizards moving
+through the beads, and then using the larger
+particle size in the simulations, Maladen et al.
+cut computing time to ‘mere’ days. The agreement
+between the simulation and the lizards’
+performance was better than that derived
+by RFT, but the procedure was much more
+time-consuming.
+The advantage of both the RFT and numerical
+modelling techniques is that parameters
+can be varied to explore patterns and seek
+optima. Initially, the most striking result was
+the finding that wave efficiency continues to
+rise as the animal’s body is thrown into higheramplitude
+waves. But these sharp bends mean
+that the sandfish covers less forward distance
+with each undulation. When the forward
+speed was plotted against the ratio of amplitude
+to wavelength, the peak speeds occurred
+at ratios ranging from 0.19 to 0.27 for the various
+simulations. The authors found that the
+data collected from actual lizard performance
+lie at this same peak. Thus, it seems that when
+fleeing from a potential predator, kinematic
+efficiency takes a back seat to a speedy retreat.
+Designing a biomimetic robot teaches you
+as much about biology as it does about
+engineering5,6. In this case, Maladen and colleagues3
+ used a sand-swimming robot to determine
+whether the theory, and the practice as
+demonstrated by the lizard itself, could be
+translated into the realm of engineering. The
+robot consisted of six connected segments,
+powered by servos, packed in a latex sock and
+wrapped in a spandex swimsuit.
+The researchers showed that the robot
+is able to swim in granular media at similar
+speeds to those observed in the other models
+and in live organisms, but at efficiencies 30%
+below the predicted maximum. By simulating
+the segmented robot in the numerical model,
+they determined that this discrepancy in
+performance was due to the robot’s low number
+of intersegmental joints. It was not until
+the researchers used more than 15 segments,
+creating a robot capable of forming a smoother
+curve, that wave efficiency approached a
+maximum. Perhaps the reason that many
+sand swimmers are elongate, smooth-bodied
+and small-limbed, with many vertebrae, is to
+better fall into a curve without the sharp bends
+that sap energy.
+
+
+
+
+Sand lances (Family Ammodytidae) are a group of fishes that
+employ anguilliform locomotion during pelagic swimming, and
+exhibit a peculiar behavior of actively swimming into sandy
+substrates as a refuge (Dick and Warner, 1982). This burrowing
+behavior is associated with hibernation during the winter, daily
+migrations into the sand after dark and predator avoidance
+(Winslade, 1947a; Winslade, 1947b; Girsa and Danilov, 1976). The
+burrowing behavior of sand lances presents a good opportunity to
+investigate the mechanics of both locomotion within and transitions
+between different environments.
+Seawater behaves as a Newtonian fluid and will flow continuously
+when a shear stress is applied, whereas a sand–water mix may act
+as a non-Newtonian fluid, because of both sand–sand and
+sand–water interactions. Settled wet sand is a hybrid material with
+some solid and some fluid properties, and it will generally support
+some shear stress. The precise mechanics of particle interaction
+remains unclear, although similar ‘frictional fluid’ sand–air mixtures
+have been studied (Maladen et al., 2009).
+During terrestrial locomotion, snakes and other limbless
+vertebrates use undulatory locomotion whereby they apply force to
+discrete, non-moving points on the ground via a posteriorly
+propagating wave (Gray, 1946). In the ideal case, where these points
+are immobile, the animal’s propulsive undulations travel caudally
+along the body, maintaining a velocity equal, though oppositely
+oriented, to the animal’s forward progress (Jayne, 1986).
+Consequently, all points along the axis of the body will follow the
+same trajectory: the undulatory wave, which, while propagating
+posteriorly along the animal’s body, will not move in a world-based
+coordinate system (Jayne, 1986). We will refer to this mode of
+locomotion as ‘non-slipping wave’ locomotion.
+By contrast, animals using aquatic undulatory locomotion do
+not have discrete push points available because they are exerting
+force onto a fluid for propulsion. Because water continuously
+deforms under shear stress, the water will flow as the body of an
+animal pushes against it. Also, because flow results in undulatory
+waves that move in a world-based coordinate system, all points
+along the body’s axis will not follow the same trajectory (Grillner
+and Kashin, 1976; Gillis, 1998). In this case, the undulatory waves
+move posteriorly with respect to both the body and the world.
+We will refer to this mode as ‘slipping wave’ locomotion. In a
+study comparing the mechanics of undulatory locomotion on land
+and in water, Gillis (Gillis, 1998) studied kinematic differences
+in the eel, Anguilla rostrata (Lesueur 1817). Effectively, eels
+traveling on land locomote using nearly non-slipping wave
+locomotion (more like other terrestrial vertebrates), whereas
+those same individuals engage in slipping wave locomotion in an
+aquatic environment (Fig.1).
+
+This dichotomy between the mechanics of non-slipping wave and
+slipping wave locomotion raises the issue of how an animal
+transitions from one medium to another, as when sand lances
+transition from aquatic to subterranean locomotion. Given the higher
+viscosity and heterogeneity of the sand–water mix, we hypothesize
+that buried sand lances will exhibit kinematics more closely
+resembling those of terrestrial snakes (i.e. we predict that they will
+employ non-slipping wave locomotion). Furthermore, any portion
+of the animal not buried will move with kinematics more closely
+resembling those of aquatic eels (i.e. we predict that they will employ
+slipping wave locomotion).
+We filmed sand lances burrowing using standard high-speed video
+and X-ray video to quantify their kinematics. We use these data to
+qualitatively and quantitatively examine the progression of kinematic
+behavior throughout the burrowing process in these fishes. Then,
+we compare our findings with the available data on terrestrial snakes,
+aquatic and terrestrial eels, and other animals that exhibit undulatory
+locomotion. Finally, we develop a model to explain the observed
+movements, and determine whether the environmental transition
+happens either as a gradient [or intermediate gait (sensu AshleyRoss
+and Bechtel, 2004)] or as an abrupt change in kinematics at
+some critical threshold.
+MATERIALS AND METHODS
+Specimens
+Two sets of specimens were used in this project (Table1). The first
+set of specimens (N10) were Pacific sand lance, Ammodytes
+hexapterus (Pallas 1814), collected using a mesh bag seine off the
+shoreline of San Juan Island, WA, USA. These fish were fed mysid
+shrimp and maintained in tanks in a flow-through seawater system
+at the Friday Harbor Laboratories (FHL), University of Washington.
+All experiments with these specimens were conducted at FHL in
+accordance with the University of Washington animal health and
+welfare policies.
+The second set of specimens (N10) was a mixture of the
+American sand lance, A. americanus (DeKay 1842) and the Northern
+sand lance, A. dubius (Reinhardt 1837). These fishes were caught
+using a custom bottom trawl off the coasts of Rhode Island and
+Massachusetts, USA. They were maintained in the Kauffman lab
+at Boston University (Boston, MA, USA), on a diet of Artemia spp.
+Fishes were transported to Brown University, where they were used
+in cinefluoroscopy experiments. Specimens were difficult to classify
+to species while alive, and so were used for experiments while alive
+and then subsequently killed for species identification by lateral scale
+counts. All work using these specimens was conducted in accordance
+with both Brown University and Boston University animal health
+and welfare policies.
+The A. hexapterus individuals in the FHL dataset ranged from
+66mm to 104mm standard length (SL), whereas the A. dubius and
+A. americanus specimens in the Brown dataset ranged from 126 to
+142mm and 105 to 123mm SL, respectively. This size difference
+was not relevant to the study because comparisons between aboveand
+below-ground locomotion are exclusively qualitative and all
+quantitative comparisons are made within a size class. Interspecies
+comparisons or scaling issues are not addressed using these datasets.
+Videography
+High-speed videos of the FHL specimens was used to characterize
+the above-sand portion of sand lance burrowing kinematics. A highspeed
+video camera (Motionscope, Redlake Imaging, Tallahassee,
+FL, USA) recorded animals at 125framess–1 with an exposure time
+of 2ms. The filming tank was approximately 204510cm (height
+ length  width), filled with 10cm of sand with 10cm of water
+above it. The camera was positioned so that activity in the tank
+could be recorded in lateral view. A mirror was positioned at a 45deg
+angle above the tank to provide a dorsal view using the same camera.
+The filming tank was illuminated by fiber-optic and incandescent
+lights. Each individual A. hexapterus was placed into the tank and
+filmed while burrowing until it was completely underground. After
+a 15min recovery period, each fish was removed from the substrate
+and allowed to burrow again. Three to five burrowing sequences
+were recorded for each of ten individuals, for a total of 36 burrowing
+sequences. The clearest video sequence of each individual was used
+for further analysis.
+The fish studied at Brown University (Brown specimens) were
+filmed using three synchronized Photron Fastcam 1024 PCI highspeed
+video cameras (Intronix Imaging Technologies, Westlake
+Village, CA, USA) at a frame rate of 125framess–1. Two of the
+cameras were connected to retrofitted C-arm fluoroscopes
+(Radiological Imaging Services, Hamburg, PA, USA) to provide
+X-ray videos of burrowing behaviors in lateral and dorsoventral
+views. During burrowing the fish displaced sand, thus allowing the
+body to be viewed as a negative X-ray image. X-ray energies varied
+somewhat between sequences, but were generally set at 20mA and
+100-120kVp. The third camera was positioned to collect standard
+(not X-ray) videos of the fish swimming in the water above the
+sand. Aquaria of various sizes and shapes were used so that lateral
+and dorsoventral X-ray and standard high-speed video images could
+be obtained. Because of the X-ray density of the water and sand,
+combined with the need to provide the animals with enough space
+to perform natural behaviors, we were not able to collect satisfactory
+lateral and dorsoventral X-ray movies simultaneously. In the end,
+
+all of the quantitatively analyzed data were collected in oblique
+lateral standard camera perspective and dorsoventral X-ray camera
+perspective. The aquarium was 2020cm square and 23cm deep.
+It was filled to a depth of 5cm with Arag-Alive aragonite reef sand
+(Carib Sea, Inc., Fort Pierce, FL, USA), with a depth of 8cm of
+water above the sand. This aquarium sand has a manufacturerspecified
+grain size of 0.2–2.2mm.
+Camera views and synchronization of data
+The FHL dataset provided three-dimensional (3-D) kinematics for
+the portion of the body that remained above ground. These 3-D data
+were crucial because the above-ground portion of the studied
+behavior is not planar. The Brown dataset could not resolve threedimensional
+motion. However, no animals burrowed deeper than
+5cm in sand, despite availability of greater depths in several trials.
+Moreover, during burrowing, animals typically remained upright
+(dorsal side up, ventral side down), with little deviation from
+horizontal pitch. For analysis purposes, we assumed that no
+dorsoventral movement occurred in burrowed animals. Following
+this assumption, we used the standard video camera from the Brown
+dataset to align time points of above-ground kinematics with those
+from X-ray videos of below-ground kinematics. We used the
+dorsoventral X-ray camera to quantify subterranean movements.
+Kinematic analyses
+Using a custom script in MATLAB 7.4 (MathWorks, Inc., Natick,
+MA, USA), we digitized a midline for every frame of selected
+sequences (N20; 10 from FHL and 10 from Brown). Each sequence
+was from a different individual. FHL sequences were analyzed from
+the time the nose touched the substrate (nose-touch) until the time
+the tail could no longer be seen by the above-ground camera. The
+FHL videos were analyzed in both lateral and dorsal views, but the
+Brown X-ray videos were analyzed in dorsal view only.
+For each frame of video, enough points were digitized to
+accurately depict above-ground body position in each camera view.
+This ranged from roughly twenty points at the beginning of a
+burrowing sequence when most of the body was exposed to two
+points at the end of a sequence when most of the body was
+underground. Registration was accomplished by first fitting a spline
+to the 2-D data from each view. The tangent of these splines in 2-
+D space was used to calculate the tangent of the midline in 3-D
+space. By stepping posteriorly through the midline points and
+calculating the 3-D tangent of each segment, it was possible to map
+the positions on one midline to positions on the second midline.
+With all the positions on one midline registered to corresponding
+positions on the other midline, a 50-point 3-D midline was
+reconstructed. These animals have between 70 and 75 vertebrae, so
+each segment of the midline spanned approximately 1.5 vertebrae.
+To measure body curvature, we used each sequential point triplet
+(1, 2, 3; 2, 3, 4; etc.) to define a circle, rendering 48 circles defined
+at each frame. We calculated instantaneous curvature values by
+taking the inverse of the radius of each circle and averaging these
+values across the entire body, resulting in one measurement for each
+frame. Because this metric still contained a strong noise component,
+we averaged across 15 frames from each stage of burrowing for
+statistical comparison (see Results for a description of these three
+stages of burrowing). We tried breaking the data up into two and
+three sections – i.e. one analysis of just the anterior versus posterior
+half of the exposed portion of the body, and anterior, middle and
+posterior thirds. Neither showed patterns of curvature changes
+longitudinally within a stage, suggesting that lumping values
+longitudinally is a valid approach.
+Inter-dataset comparisons
+The two datasets examined herein are largely non-overlapping.
+Therefore, the FHL dataset is chiefly used for a qualitative description
+of above-ground kinematics, with quantitative data being used to
+examine differences between stages of burrowing. The Brown dataset
+is used as a descriptor of below-ground kinematics, with quantitative
+data comparing stages of subterranean locomotion within this dataset.
+The timing variables measured in both datasets are linked by the
+standard camera view, which is used to determine the time of nosetouch,
+the end of the burrowing sequence and the stage divisions.
+RESULTS
+Above-ground kinematics
+We observed a sequence of three distinct stages during burrowing
+in every trial for every individual. The progression involves a sudden
+increase in above-ground movements, when undulations become
+more pronounced and increased in frequency. This is followed by
+a sudden halt in movement, when the tail ceases undulation and
+appears to glide effortlessly into the sand. In all stages undulations
+that occur above ground have a slipping wave pattern. Burrowing
+sequences (measured from the time of the nose touching the
+substrate until the tail can no longer be seen above ground) lasted
+approximately 1s. The shortest recorded burrowing event lasted
+0.55s and the longest lasted 1.75s. Each of the three stages lasted
+approximately one third of the sequence.
+
+Initially, when burrowing commences, the animal uses
+conventional slipping wave locomotion, in which the body continues
+to undulate as if not encountering the resistance of the sand, although
+the fish has already engaged the substrate. The sand lance uses these
+undulations to drive its pointy, cone-shaped head into the sand
+(Fig.2). This kinematic phase is qualitatively similar to swimming
+observed before the nose touches the substrate, except for the lack
+of head yaw, which is due to the rostrum being embedded in the
+sand. We term this portion of the burrowing sequence ‘Stage 1’
+(Fig.3A,D,G).
+Stage 2 is characterized by more pronounced body undulations,
+in which the tail often makes contact with the substrate (Fig.3B,E,H).
+The body undulations also attain higher curvatures than in Stage 1
+(Fig.4; P0.0028 in a paired t-test, N10). The frequencies and
+amplitudes of the tail tip do not vary between Stages 1 and 2,
+remaining at approximately 0.7Hz and 6cm, respectively. These
+more pronounced undulations drive approximately two-thirds of the
+body into the substrate.
+Stage 3 is marked by a sudden halt in above-ground undulation,
+and the above-ground portion of the tail typically straightens
+(Fig.3C,F,I). We term the beginning of this stage ‘tail stop’.
+Undulations observed during Stage 3 are less curved than those at
+Stage 2 (Fig.4; P0.0008 in a paired t-test, N10). The two outliers
+(marked by open circles) in Fig.4 are data for fish with their tail
+bent over and resting on the sand. In both cases, the tail was no
+longer undulating.
+Comparison with below-ground kinematics
+During Stage 1, the underground portion of the animal does not
+undulate and thus enters the sand in a straight line (Fig.5A,D,G).
+At the onset of Stage 2 (denoted by the increase in curvature and
+amplitude in the single standard camera view), the buried portion
+of the animal typically makes a 90deg lateral bend, and the head
+begins traveling in a direction orthogonal to its entry trajectory
+(Fig.5B,E,H). At the onset of Stage 3 (denoted by the offset of
+undulations in the above-ground potion of the body in the standard
+
+camera view), the animal makes a second lateral 90deg bend in the
+opposite direction, pointing its head back in the original orientation
+of movement (Fig.3C,F,I). The frequency of undulation is also
+greatly reduced (Fig.5G,H,I) from that of the above-ground portions
+of the body (Fig.3, same panels). Underground, Stages 2 and 3 are
+indistinguishable from each other on the basis of radius of curvature
+of the fish (Fig.4; P0.6222 in a paired t-test, N10) and are more
+curved than above-ground portions of the body in all stages (Fig.4,
+P0.001 in a standard t-test, N20). In all stages the undulations
+below ground, have a non-slipping wave pattern.
+Kinematic timing
+Synchrony can be identified by comparing the relative timing of
+kinematic events (Fig.6). Nose-touch is the principal kinematic event
+of the burrowing process (we use nose-touch as the initiation point
+of the burrowing sequence and the point at which the tail is
+completely submerged in sand as the end of the burrowing sequence)
+and is followed by the first subterranean lateral bend after a variable
+delay. The second subterranean bend is likewise variable in its timing
+(paired t-test of first bend versus second bend timing; P0.0001,
+N10) and the tail stop is also significantly different in timing from
+the first lateral bend (paired t-test, P0.0001, N10). The only
+kinematic events that occur reliably in concert are the second lateral
+bend and the ceasing of tail movement (paired t-test, P0.2796,
+N10). These two variables always occur within 0.1s of each other,
+although their relative order varies.
+DISCUSSION
+We have shown that sand lances exhibit different modes of
+undulatory locomotion depending on the environment with which
+they are in contact. Furthermore, the change in locomotor kinematics
+occurs abruptly at a specific point during the burrowing process,
+before which aquatic thrust, by way of the tail, is the predominant
+mode of propulsion. Once enough of the body is underground, the
+anterior portion of the body takes over, and the tail ceases forcegenerating
+movements. While swimming, sand lances maintain the
+stereotypical anguilliform mode in which the undulatory wave
+travels faster posteriorly along the body than the animal itself travels
+anteriorly – the hallmark of slipping wave locomotion. Once
+
+subterranean propulsion has commenced, however, the observed
+kinematics change, becoming more snake like. Similarly, eels that
+leave water and travel terrestrially also locomote in a snake-like
+manner (Gillis, 1998), though they do slip somewhat on any
+substrate.
+Aquatic locomotion and burrow initiation
+In their burrowing sequence, sand lances are initially only capable
+of aquatic locomotion, yet they must propel themselves into a
+sand–water mix, which is more viscous and supportive of shear stress
+than water. We hypothesize two adaptations for burrowing in such
+a situation: (1) a pointed head with a bony projection from the
+dentary and (2) behavioral increases in undulation frequency and
+amplitude. Equipped with these morphological and behavioral
+attributes, the sand lance is able to propel itself into the sand water
+mix.
+During Stages 1 and 2, the above-ground portion of sand lances
+exhibit slipping wave locomotion (Fig.3, first two columns). This
+is not surprising because these animals are pushing off against water,
+rather than solid, non-moving points, to propel themselves forward.
+In Stage 2, the increases in amplitude and frequency become evident,
+indicating a more dedicated ‘push’ into the substrate. One important
+way that this mode of locomotion is different from typical eel-like
+locomotion is the nearly complete lack of head yaw (Fig.3G,H).
+This is the result of the head being planted into the substrate and
+may serve to more directly orient propulsive forces into the sand.
+Once the animal is approximately two-thirds submerged in the
+substrate – i.e. at the beginning of Stage 3 – it abruptly and
+fundamentally changes its mode of locomotion. The previously
+important undulations of the non-buried portion of the body cease,
+suggesting the tail’s uselessness as a propulsive organ in the final
+stage of the burrowing sequence.
+Underground locomotion
+Subterranean undulatory kinematics of sand lances resemble
+terrestrial snake locomotion in having a non-slipping wave pattern.
+During terrestrial locomotion, snakes rely on surface irregularities
+in the substrate – such as pebbles, tufts of grass, or asperities in the
+ground – and frictional anisotropy of the scales to push themselves
+forward (Jayne, 1986; Hu et al., 2009). Some snakes are capable
+of locomotion with a single peg fastened to a low-friction floor,
+although having multiple points of substrate contact in a zig-zag
+configuration can aid in cancellation of lateral forces, which can
+allow for faster and more effective locomotion (Moon and Gans,
+1998). These idealized zig-zags and the two sequential 90deg bends
+observed underground in this study bear a striking resemblance to
+an experimental apparatus used by Gray and Lissmann to study
+snake locomotion, which is redrawn in Fig.7 (Gray and Lissmann,
+1950). In the tunnel, each wall registered forces acting normal to
+it. Snakes were allowed to travel voluntarily from point X to point
+Y. Although all walls were force sensitive, only walls F, D and B
+registered forces. Forces applied to wall D greatly exceeded those
+of walls F and B. Thus, the majority of propulsion as a result of
+lateral undulation in this apparatus is only possible after the snake
+completes two lateral bends and can push back against wall D,
+propelling itself forward. It should also be noted that prior to the
+second lateral bend, the snakes used concertina locomotion rather
+than typical undulatory locomotion.
+For successful underground locomotion, sand lances must push
+against the sand to propel themselves forward. Given the
+experimental results of Gray and Lissmann and our observations
+of abruptly ceasing tail movements, we hypothesize that sand
+lances are only able to impart forces onto the substrate underground
+once they have completed the second lateral bend (Gray and
+Lissmann, 1950). Prior to this, an alternative mode (i.e. augmented
+undulation of the aquatic portion of the tail) is needed to propel
+the animal into the substrate. After the second lateral bend, there
+is a section of the body that is normal to the desired direction of
+travel. It is with this segment that the sand lance is able to push
+posteriorly against sand – the analog of Gray and Lissmann’s wall
+D. The fact that this perpendicular region of the body does not
+move in world space (although it does travel posteriorly on the
+fish’s body), suggests that the sand posterior to that segment is
+capable of resisting static shear stress, and thus provides the
+equivalent of a ground reaction force to propel the animal forward.
+The fish’s 90 deg bends, we postulate, allow for stabilization and
+direction of that force in an analogous way to Gray and Lissmann’s
+walls F and B.
+The point at which the sand lance has this ability (the time point
+of the second lateral bend) coincides with the time point of cessation
+in tail undulatory movements (Fig.6). We hypothesize that this
+transition between Stages 2 and 3 marks the point of switching from
+an aquatic to a terrestrial propulsive mode. We did not directly
+measure muscle activity in this study, but we envision two possible
+scenarios for patterns of muscle activation in the transition from
+Stage 2 to Stage 3. First, the pattern of muscle activation could
+remain constant and the material property of the environment could
+be responsible for the observed change in kinematic pattern. Second,
+this kinematic shift could be the result of a different pattern of muscle
+activity – one more suited to subterranean locomotion. Our finding
+that the aquatic tail undulations cease (Fig.3C,F,I), and that the tail
+passively glides into the sand during the final stage of burrowing,
+suggests that the wave of muscle activity passing down the body is
+not continuous from head to tail. We hypothesize that the shift
+between Stages 2 and 3 is the result of a shift in motor pattern. This
+new motor pattern may only require activation of the anterior portion
+of the axial musculature, allowing the tail portion of the body to
+follow passively.
+Sand–body interactions
+The same morphological adaptation that allows these animals to
+push off water and propel themselves through sand could explain
+why they are able to push off and through the sandy substrate without
+slipping. In an aquatic medium, despite having a pointed nose,
+
+animals pushing on water induce flow, resulting in anguilliform
+kinematics. However, once completely buried, the sand lance is still
+pushing against and through the same medium – this time a
+sand–water mix – without observable flow of that medium. We
+explain this as an irregularity in how the substrate responds to
+stresses (Maladen et al., 2009). In a frictional fluid such as the
+sand–water mix, changes in weight distribution or areas where large
+surfaces are pushing (such as the side of the body or the tail) would
+be more supportive of shear stress than those where forces are
+concentrated – such as the nose. By taking a cone-shaped head and
+further supporting the pointed nose with a bony projection (Fig.2),
+stresses could become even more concentrated, while, at the same
+time remaining fortified. Interestingly, Horner and Jayne showed
+that increasing the viscosity of an aquatic medium results in
+increased slipping of undulatory waves in lungfish, which have a
+less pronounced point at the anterior of the rostrum (Horner and
+Jayne, 2008). This underscores the importance of sand particle
+interactions beyond simple increases in viscosity, as well as the
+importance of stress concentration to sand lance locomotion
+mechanics. The mechanical explanation of exactly how the substrate
+responds to this projection is beyond the scope of this paper, but
+warrants further research.
+One way for a sand lance to make its burrowing less energetically
+expensive might be to fluidize sand by rapid vibration of its head.
+This could change the water/sand ratio immediately around the head,
+which is an important parameter in defining how such an environment
+responds to forces exerted by an animal (Maladen et al., 2009).
+However, we see no evidence that the sand directly contacting the
+body of these fish is in any way fluidized, as the outline of the fishes
+in our X-ray sequences did not become blurred at the initial stages
+of burrowing. We also see no head yaw during slipping wave
+locomotion (Fig.3H). The head of the sand lance, once buried, moves
+much more slowly than the above-ground portion of the body, and
+during Stage 1 it only translates anteriorly. The rapid, high-undulation
+movements of the non-buried portion of the body must be sufficient
+to propel the animal forward into the sand.
+Comparison of air–sand transitions with water–sand
+transitions
+Many vertebrates must modulate their locomotor strategies in
+response to the specific physical nature of their environment.
+Several species of legged lizards dig or burrow to escape from
+predators, heat and other adverse conditions. One such group is
+the iguanid genus Uma, which inhabit sandy deserts. These animals
+do not travel underground, but instead they use these burrowing
+events to cover themselves in sand. The kinematic progression of
+Uma burrowing bears a striking resemblance to that of sand lances
+– summarized below, based on accounts in Stebbins (Stebbins,
+1944) and Jayne and Daggy (Jayne and Daggy, 2000). During
+surface locomotion, the lizards use typical four-limbed undulatory
+locomotion. At the start of a burrowing sequence, the anteriorly
+extended limbs are retracted to force the head into the ground using
+the inertia of the body. As the head is thrust downward into the
+sand, it undulates laterally at the neck, with quick, low-amplitude
+oscillations. Next, the forelimbs are pressed flat against the body
+and the hind limbs begin a vigorous push to submerge the majority
+of the animal. Following this, the (non-undulating) tail is vibrated
+to finish the burying task. Analogs of the lateral undulations of the
+head and vibration of the tail in lizards are not observed in sand
+lances. However, the progression begins with inertial thrusting of
+the head into the sand (i.e. Stage 1 in the sand lance’s burrowing
+sequence) followed by a propulsive stage (i.e. Stage 2) and
+subsequently a retraction of the propulsive tools (legs and tail in
+Uma and the tail in Ammodytes) into the substrate. The similarity
+in progression of burrowing events in Uma and Ammodytes is
+remarkable.
+The sandfish – a member of the genus Scincus – is another lizard
+the exhibits sand burrowing. The burrowing behavior of these
+animals was recently investigated using NMR and X-ray imaging
+(Baumgartner et al., 2008; Maladen et al., 2009). Unlike other lizard
+species such as those mentioned above, sandfish fluidize the sandy
+bed by high-speed undulations and capitalize on the low viscosity
+of the air–sand mix to ‘swim’ using their limbs. The limbs are
+thought to be used to modulate local compaction, thus providing a
+local, ephemeral push point onto which the animal can exert force
+(Baumgartner et al., 2008). Other investigators of sandfish
+locomotion have found that arms are not used, but rather large
+amplitude undulations are sufficient (Maladen et al., 2009). Maladen
+et al. found, in contrast to the present study, that sandfish undulatory
+locomotion involves slipping wave locomotion (Maladen et al.,
+2009).
+Concluding remarks
+We have shown that a sand–water mix can respond differently to
+different parts of the sand lance’s body; the pointed nose pushes
+through sand, whereas the body pushes against sand. One avenue
+that requires further exploration is experimental variation of the
+resistance to shear stress of the substrate. Sand lances operate in
+one manner in water and another in an undisturbed and settled
+sand–water matrix. However, these effects may be due to local
+variation in compaction, the viscosity of the substrate, a
+combination of the two, or other aspects of the media. Experiments
+that manipulate the rate of water flow through the sand separately
+from sand density could help distinguish the relative roles of these
+effects.
+Substrate heterogeneity is another interesting avenue of research
+that deserves exploration. Despite substrate homogeneity, we have
+shown heterogeneity in the substrate’s reaction to forces exerted by
+the sand lance. It is unclear whether this is a passive attribute of
+the substrate or actively modulated by the sand lance to optimize
+metabolic efficiency (or some other variable). Also, we have not
+been able to examine whether sand lances are able to modify their
+locomotion to take advantage of larger particles (pebbles and stones)
+or heterogeneous substrates that would inevitably be present in their
+natural environment.
+
+
+
+
+
